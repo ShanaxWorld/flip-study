@@ -1,5 +1,7 @@
 # Answer flips in training-free video token compression
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23692807.svg)](https://doi.org/10.5281/zenodo.23692807)
+
 Code and data for the paper
 
 > S. M. Shah Nawaz Hossain and Sumaiya Tabassum Nimi, "Accuracy Parity Is Not Fidelity: Answer Flips in Training-Free Video Token Compression," submitted to *Multimedia Tools and Applications*, 2026.
@@ -92,4 +94,4 @@ Our code is MIT-licensed and the data in `data/` and `results/` are CC BY 4.0 (s
 
 ## Citation
 
-See `CITATION.cff`. A BibTeX entry will be added when the paper is published.
+See `CITATION.cff`. The code and data are archived on Zenodo: https://doi.org/10.5281/zenodo.23692807. A BibTeX entry will be added when the paper is published.
