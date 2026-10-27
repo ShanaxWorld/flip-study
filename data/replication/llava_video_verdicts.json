@@ -1,0 +1,41 @@
+{
+ "model": "llava_video",
+ "benchmarks": [
+  "videomme",
+  "egoschema",
+  "longvideobench"
+ ],
+ "H1": {
+  "fragility": {
+   "videomme": 0.38333333333333336,
+   "egoschema": 0.31333333333333335,
+   "longvideobench": 0.38333333333333336
+  },
+  "n_ge_30": 3,
+  "needed": 3,
+  "replicated": true
+ },
+ "H2a": {
+  "lossy": 15,
+  "cells": 15,
+  "share": 1.0,
+  "replicated": true
+ },
+ "H2b": {
+  "noise_equivalent": 6,
+  "cells": 15,
+  "share": 0.4,
+  "replicated": false
+ },
+ "H3": {
+  "lossy_cells": 26,
+  "lossy_hs": 0.7037815126050421,
+  "noise_hs": 0.4794188861985472,
+  "diff": 0.22436262640649485,
+  "ci": [
+   0.1625924830781443,
+   0.289921152726506
+  ],
+  "replicated": true
+ }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Answer flips in training-free video token compression: code and data",
+  "upload_type": "software",
+  "description": "Code, per-question outputs and analysis scripts for the paper 'Accuracy Parity Is Not Fidelity: Answer Flips in Training-Free Video Token Compression'. The study measures how often training-free token compression changes the answers of video large language models beyond the changes caused by harmless input variation (frame-sampling shifts and option reordering), on LLaVA-OneVision-7B, LLaVA-Video-7B and Qwen3-VL-8B over five video benchmarks, with V-CAST as a ninth method and six further harmless passes added in revision.",
+  "creators": [
+    {
+      "name": "Hossain, S. M. Shah Nawaz",
+      "affiliation": "North South University"
+    },
+    {
+      "name": "Nimi, Sumaiya Tabassum",
+      "affiliation": "North South University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "video large language models",
+    "visual token compression",
+    "answer flips",
+    "fidelity",
+    "evaluation",
+    "video question answering"
+  ],
+  "version": "1.0.0"
+}

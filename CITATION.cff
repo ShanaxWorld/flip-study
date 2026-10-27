@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Answer flips in training-free video token compression: code and data"
+type: software
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+authors:
+  - family-names: Hossain
+    given-names: "S. M. Shah Nawaz"
+    affiliation: North South University
+  - family-names: Nimi
+    given-names: Sumaiya Tabassum
+    affiliation: North South University
+keywords:
+  - video large language models
+  - visual token compression
+  - answer flips
+  - model evaluation
+preferred-citation:
+  type: article
+  title: "Accuracy Parity Is Not Fidelity: Answer Flips in Training-Free Video Token Compression"
+  authors:
+    - family-names: Hossain
+      given-names: "S. M. Shah Nawaz"
+    - family-names: Nimi
+      given-names: Sumaiya Tabassum
+  year: 2026
+  notes: "Submitted to Multimedia Tools and Applications (Springer Nature)."

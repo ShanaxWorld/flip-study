@@ -1,0 +1,214 @@
+{
+ "planned4": {
+  "agree_with_planned": 1.0,
+  "corr_with_planned": 1.0,
+  "mean_shift_pts": 0.0,
+  "median_se_pts": 1.6735659286388833,
+  "by_budget": {
+   "0.05": {
+    "lossy": 38,
+    "inconclusive": 2
+   },
+   "0.1": {
+    "lossy": 31,
+    "inconclusive": 7,
+    "noise-equivalent": 2
+   },
+   "0.25": {
+    "inconclusive": 20,
+    "noise-equivalent": 14,
+    "lossy": 6
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 0,
+  "H2a_lossy_at_5": 33,
+  "H2b_ne_at_25": 13,
+  "cells_per_budget": 35
+ },
+ "new6": {
+  "agree_with_planned": 0.8166666666666667,
+  "corr_with_planned": 0.9832295451416477,
+  "mean_shift_pts": -0.9835898839096848,
+  "median_se_pts": 1.635615979325003,
+  "by_budget": {
+   "0.05": {
+    "lossy": 36,
+    "noise-equivalent": 2,
+    "inconclusive": 2
+   },
+   "0.1": {
+    "lossy": 31,
+    "noise-equivalent": 8,
+    "inconclusive": 1
+   },
+   "0.25": {
+    "noise-equivalent": 20,
+    "inconclusive": 16,
+    "lossy": 4
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 0,
+  "H2a_lossy_at_5": 32,
+  "H2b_ne_at_25": 17,
+  "cells_per_budget": 35
+ },
+ "all10": {
+  "agree_with_planned": 0.875,
+  "corr_with_planned": 0.9847656857570632,
+  "mean_shift_pts": 0.06442512408183426,
+  "median_se_pts": 1.555801439277416,
+  "by_budget": {
+   "0.05": {
+    "lossy": 38,
+    "inconclusive": 1,
+    "noise-equivalent": 1
+   },
+   "0.1": {
+    "lossy": 31,
+    "inconclusive": 5,
+    "noise-equivalent": 4
+   },
+   "0.25": {
+    "noise-equivalent": 15,
+    "lossy": 13,
+    "inconclusive": 12
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 0,
+  "H2a_lossy_at_5": 33,
+  "H2b_ne_at_25": 13,
+  "cells_per_budget": 35
+ },
+ "frame4": {
+  "agree_with_planned": 0.6333333333333333,
+  "corr_with_planned": 0.9667963389608675,
+  "mean_shift_pts": 3.800862351979302,
+  "median_se_pts": 1.6645779719170257,
+  "by_budget": {
+   "0.05": {
+    "lossy": 40
+   },
+   "0.1": {
+    "lossy": 40
+   },
+   "0.25": {
+    "lossy": 33,
+    "inconclusive": 7
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 10,
+  "H2a_lossy_at_5": 35,
+  "H2b_ne_at_25": 0,
+  "cells_per_budget": 35
+ },
+ "option4": {
+  "agree_with_planned": 0.6666666666666666,
+  "corr_with_planned": 0.949105724371989,
+  "mean_shift_pts": 4.759702594558227,
+  "median_se_pts": 1.7997833981844502,
+  "by_budget": {
+   "0.05": {
+    "lossy": 40
+   },
+   "0.1": {
+    "lossy": 37,
+    "inconclusive": 3
+   },
+   "0.25": {
+    "lossy": 30,
+    "inconclusive": 6,
+    "noise-equivalent": 4
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 4,
+  "H2a_lossy_at_5": 35,
+  "H2b_ne_at_25": 3,
+  "cells_per_budget": 35
+ },
+ "prompt2": {
+  "agree_with_planned": 0.7583333333333333,
+  "corr_with_planned": 0.9125846159244473,
+  "mean_shift_pts": -0.5936270432087123,
+  "median_se_pts": 1.8283894065524429,
+  "by_budget": {
+   "0.05": {
+    "lossy": 38,
+    "inconclusive": 2
+   },
+   "0.1": {
+    "lossy": 28,
+    "inconclusive": 9,
+    "noise-equivalent": 3
+   },
+   "0.25": {
+    "noise-equivalent": 24,
+    "inconclusive": 11,
+    "lossy": 5
+   }
+  },
+  "lossy_to_ne": 2,
+  "ne_to_lossy": 0,
+  "H2a_lossy_at_5": 33,
+  "H2b_ne_at_25": 20,
+  "cells_per_budget": 35
+ },
+ "new5": {
+  "agree_with_planned": 0.8666666666666667,
+  "corr_with_planned": 0.9818163580119396,
+  "mean_shift_pts": 0.905361482693647,
+  "median_se_pts": 1.6440903385736303,
+  "by_budget": {
+   "0.05": {
+    "lossy": 38,
+    "inconclusive": 1,
+    "noise-equivalent": 1
+   },
+   "0.1": {
+    "lossy": 31,
+    "noise-equivalent": 5,
+    "inconclusive": 4
+   },
+   "0.25": {
+    "lossy": 15,
+    "noise-equivalent": 13,
+    "inconclusive": 12
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 0,
+  "H2a_lossy_at_5": 33,
+  "H2b_ne_at_25": 12,
+  "cells_per_budget": 35
+ },
+ "eligible9": {
+  "agree_with_planned": 0.775,
+  "corr_with_planned": 0.9915954323228863,
+  "mean_shift_pts": 1.3105029610746661,
+  "median_se_pts": 1.5813400441926428,
+  "by_budget": {
+   "0.05": {
+    "lossy": 40
+   },
+   "0.1": {
+    "lossy": 37,
+    "inconclusive": 2,
+    "noise-equivalent": 1
+   },
+   "0.25": {
+    "lossy": 22,
+    "noise-equivalent": 10,
+    "inconclusive": 8
+   }
+  },
+  "lossy_to_ne": 0,
+  "ne_to_lossy": 2,
+  "H2a_lossy_at_5": 35,
+  "H2b_ne_at_25": 9,
+  "cells_per_budget": 35
+ }
+}

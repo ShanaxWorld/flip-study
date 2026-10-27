@@ -1,0 +1,41 @@
+{
+ "model": "qwen3vl",
+ "benchmarks": [
+  "videomme",
+  "egoschema",
+  "longvideobench"
+ ],
+ "H1": {
+  "fragility": {
+   "videomme": 0.37666666666666665,
+   "egoschema": 0.34,
+   "longvideobench": 0.41
+  },
+  "n_ge_30": 3,
+  "needed": 3,
+  "replicated": true
+ },
+ "H2a": {
+  "lossy": 9,
+  "cells": 9,
+  "share": 1.0,
+  "replicated": true
+ },
+ "H2b": {
+  "noise_equivalent": 3,
+  "cells": 9,
+  "share": 0.3333333333333333,
+  "replicated": false
+ },
+ "H3": {
+  "lossy_cells": 16,
+  "lossy_hs": 0.7685774946921444,
+  "noise_hs": 0.49678800856531047,
+  "diff": 0.27178948612683396,
+  "ci": [
+   0.20582231260817682,
+   0.34106730345358865
+  ],
+  "replicated": true
+ }
+}

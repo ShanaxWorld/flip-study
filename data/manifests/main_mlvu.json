@@ -1,0 +1,3031 @@
+{
+"benchmark": "mlvu",
+"n": 504,
+"sha256_of_qid_list": "62e495957e6bf3e1f70505d03dc97a47e12047681cfffd43b7c5964c22855962",
+"questions": [
+{
+"qid": "1_plotQA-0450",
+"video": "1_plotQA/8.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0196",
+"video": "1_plotQA/en_tv_1.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0516",
+"video": "1_plotQA/en_tv_14.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0500",
+"video": "1_plotQA/en_tv_15.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0505",
+"video": "1_plotQA/en_tv_15.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0224",
+"video": "1_plotQA/en_tv_16.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0055",
+"video": "1_plotQA/en_tv_18.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0052",
+"video": "1_plotQA/en_tv_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0537",
+"video": "1_plotQA/en_tv_20.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0031",
+"video": "1_plotQA/en_tv_25.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0091",
+"video": "1_plotQA/en_tv_27.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0094",
+"video": "1_plotQA/en_tv_32.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0383",
+"video": "1_plotQA/en_tv_34.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0292",
+"video": "1_plotQA/en_tv_38.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0396",
+"video": "1_plotQA/en_tv_38.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0092",
+"video": "1_plotQA/haimian_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0475",
+"video": "1_plotQA/haimian_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0112",
+"video": "1_plotQA/haimian_4.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0174",
+"video": "1_plotQA/haimian_4.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0416",
+"video": "1_plotQA/haimian_7.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0298",
+"video": "1_plotQA/haimian_9.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0536",
+"video": "1_plotQA/haimian_9.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0097",
+"video": "1_plotQA/movie101_104.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0062",
+"video": "1_plotQA/movie101_111.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0165",
+"video": "1_plotQA/movie101_13.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0350",
+"video": "1_plotQA/movie101_13.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0352",
+"video": "1_plotQA/movie101_16.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0221",
+"video": "1_plotQA/movie101_17.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0497",
+"video": "1_plotQA/movie101_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0336",
+"video": "1_plotQA/movie101_22.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0511",
+"video": "1_plotQA/movie101_22.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0428",
+"video": "1_plotQA/movie101_25.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0517",
+"video": "1_plotQA/movie101_26.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0213",
+"video": "1_plotQA/movie101_27.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0021",
+"video": "1_plotQA/movie101_28.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0476",
+"video": "1_plotQA/movie101_29.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0175",
+"video": "1_plotQA/movie101_30.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0085",
+"video": "1_plotQA/movie101_37.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0538",
+"video": "1_plotQA/movie101_39.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0422",
+"video": "1_plotQA/movie101_4.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0020",
+"video": "1_plotQA/movie101_5.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0148",
+"video": "1_plotQA/movie101_52.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0004",
+"video": "1_plotQA/movie101_53.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0523",
+"video": "1_plotQA/movie101_53.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0382",
+"video": "1_plotQA/movie101_54.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0226",
+"video": "1_plotQA/movie101_55.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0356",
+"video": "1_plotQA/movie101_56.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0003",
+"video": "1_plotQA/movie101_58.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0284",
+"video": "1_plotQA/movie101_59.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0403",
+"video": "1_plotQA/movie101_65.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0128",
+"video": "1_plotQA/movie101_67.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0370",
+"video": "1_plotQA/movie101_7.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0478",
+"video": "1_plotQA/movie101_7.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0176",
+"video": "1_plotQA/movie101_72.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0180",
+"video": "1_plotQA/movie101_72.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0310",
+"video": "1_plotQA/movie101_76.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0152",
+"video": "1_plotQA/movie101_81.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0510",
+"video": "1_plotQA/movie101_84.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0341",
+"video": "1_plotQA/movie101_85.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0090",
+"video": "1_plotQA/movie101_86.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0017",
+"video": "1_plotQA/movie101_87.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0438",
+"video": "1_plotQA/movie101_88.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0494",
+"video": "1_plotQA/tomjerry_1.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0482",
+"video": "1_plotQA/tomjerry_3.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0515",
+"video": "1_plotQA/tomjerry_3.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0527",
+"video": "1_plotQA/tomjerry_7.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0173",
+"video": "1_plotQA/tomjerry_8.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0254",
+"video": "1_plotQA/xiaoliyu_1.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0139",
+"video": "1_plotQA/xiaoliyu_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0142",
+"video": "1_plotQA/xiaoliyu_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0211",
+"video": "1_plotQA/xiaoliyu_2.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "1_plotQA-0343",
+"video": "1_plotQA/xiaoliyu_4.mp4",
+"group": "1_plotQA",
+"task": "1_plotQA"
+},
+{
+"qid": "2_needle-0231",
+"video": "2_needle/needle_1.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0217",
+"video": "2_needle/needle_10.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0240",
+"video": "2_needle/needle_100.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0019",
+"video": "2_needle/needle_106.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0100",
+"video": "2_needle/needle_109.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0206",
+"video": "2_needle/needle_11.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0212",
+"video": "2_needle/needle_11.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0201",
+"video": "2_needle/needle_114.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0159",
+"video": "2_needle/needle_120.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0259",
+"video": "2_needle/needle_124.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0005",
+"video": "2_needle/needle_126.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0302",
+"video": "2_needle/needle_135.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0300",
+"video": "2_needle/needle_136.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0280",
+"video": "2_needle/needle_137.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0065",
+"video": "2_needle/needle_138.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0167",
+"video": "2_needle/needle_139.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0288",
+"video": "2_needle/needle_139.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0273",
+"video": "2_needle/needle_142.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0134",
+"video": "2_needle/needle_143.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0140",
+"video": "2_needle/needle_144.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0085",
+"video": "2_needle/needle_16.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0017",
+"video": "2_needle/needle_19.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0021",
+"video": "2_needle/needle_19.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0286",
+"video": "2_needle/needle_2.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0016",
+"video": "2_needle/needle_20.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0122",
+"video": "2_needle/needle_24.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0050",
+"video": "2_needle/needle_26.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0020",
+"video": "2_needle/needle_27.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0295",
+"video": "2_needle/needle_28.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0007",
+"video": "2_needle/needle_29.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0042",
+"video": "2_needle/needle_3.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0142",
+"video": "2_needle/needle_31.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0003",
+"video": "2_needle/needle_33.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0264",
+"video": "2_needle/needle_33.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0234",
+"video": "2_needle/needle_34.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0091",
+"video": "2_needle/needle_35.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0088",
+"video": "2_needle/needle_40.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0320",
+"video": "2_needle/needle_40.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0333",
+"video": "2_needle/needle_41.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0098",
+"video": "2_needle/needle_43.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0182",
+"video": "2_needle/needle_44.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0215",
+"video": "2_needle/needle_45.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0324",
+"video": "2_needle/needle_45.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0015",
+"video": "2_needle/needle_51.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0038",
+"video": "2_needle/needle_52.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0097",
+"video": "2_needle/needle_54.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0250",
+"video": "2_needle/needle_57.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0321",
+"video": "2_needle/needle_57.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0224",
+"video": "2_needle/needle_58.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0323",
+"video": "2_needle/needle_6.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0121",
+"video": "2_needle/needle_60.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0308",
+"video": "2_needle/needle_62.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0105",
+"video": "2_needle/needle_63.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0074",
+"video": "2_needle/needle_64.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0193",
+"video": "2_needle/needle_64.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0303",
+"video": "2_needle/needle_67.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0281",
+"video": "2_needle/needle_7.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0260",
+"video": "2_needle/needle_75.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0293",
+"video": "2_needle/needle_77.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0030",
+"video": "2_needle/needle_78.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0115",
+"video": "2_needle/needle_82.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0314",
+"video": "2_needle/needle_82.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0180",
+"video": "2_needle/needle_84.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0089",
+"video": "2_needle/needle_86.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0210",
+"video": "2_needle/needle_86.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0221",
+"video": "2_needle/needle_89.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0263",
+"video": "2_needle/needle_9.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0196",
+"video": "2_needle/needle_91.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0062",
+"video": "2_needle/needle_94.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0031",
+"video": "2_needle/needle_97.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0294",
+"video": "2_needle/needle_97.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "2_needle-0301",
+"video": "2_needle/needle_98.mp4",
+"group": "2_needle",
+"task": "2_needle"
+},
+{
+"qid": "3_ego-0267",
+"video": "3_ego/ego_11.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0215",
+"video": "3_ego/ego_13.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0149",
+"video": "3_ego/ego_16.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0091",
+"video": "3_ego/ego_18.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0092",
+"video": "3_ego/ego_18.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0085",
+"video": "3_ego/ego_19.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0089",
+"video": "3_ego/ego_19.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0252",
+"video": "3_ego/ego_2.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0021",
+"video": "3_ego/ego_20.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0017",
+"video": "3_ego/ego_21.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0011",
+"video": "3_ego/ego_22.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0014",
+"video": "3_ego/ego_22.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0016",
+"video": "3_ego/ego_22.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0187",
+"video": "3_ego/ego_22.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0175",
+"video": "3_ego/ego_23.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0180",
+"video": "3_ego/ego_23.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0173",
+"video": "3_ego/ego_24.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0122",
+"video": "3_ego/ego_25.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0297",
+"video": "3_ego/ego_27.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0161",
+"video": "3_ego/ego_28.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0020",
+"video": "3_ego/ego_29.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0042",
+"video": "3_ego/ego_32.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0137",
+"video": "3_ego/ego_34.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0256",
+"video": "3_ego/ego_34.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0104",
+"video": "3_ego/ego_35.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0199",
+"video": "3_ego/ego_36.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0225",
+"video": "3_ego/ego_36.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0325",
+"video": "3_ego/ego_36.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0348",
+"video": "3_ego/ego_36.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0106",
+"video": "3_ego/ego_37.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0031",
+"video": "3_ego/ego_4.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0338",
+"video": "3_ego/ego_41.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0062",
+"video": "3_ego/ego_43.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0202",
+"video": "3_ego/ego_43.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0298",
+"video": "3_ego/ego_43.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0311",
+"video": "3_ego/ego_43.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0320",
+"video": "3_ego/ego_45.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0174",
+"video": "3_ego/ego_47.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0292",
+"video": "3_ego/ego_47.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0015",
+"video": "3_ego/ego_48.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0334",
+"video": "3_ego/ego_5.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0135",
+"video": "3_ego/ego_50.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0007",
+"video": "3_ego/ego_52.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0224",
+"video": "3_ego/ego_52.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0342",
+"video": "3_ego/ego_52.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0074",
+"video": "3_ego/ego_55.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0233",
+"video": "3_ego/ego_60.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0305",
+"video": "3_ego/ego_61.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0321",
+"video": "3_ego/ego_61.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0088",
+"video": "3_ego/ego_63.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0098",
+"video": "3_ego/ego_63.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0288",
+"video": "3_ego/ego_63.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0050",
+"video": "3_ego/ego_65.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0284",
+"video": "3_ego/ego_66.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0038",
+"video": "3_ego/ego_69.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0003",
+"video": "3_ego/ego_71.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0019",
+"video": "3_ego/ego_71.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0030",
+"video": "3_ego/ego_71.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0005",
+"video": "3_ego/ego_73.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0345",
+"video": "3_ego/ego_73.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0198",
+"video": "3_ego/ego_76.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0209",
+"video": "3_ego/ego_78.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0322",
+"video": "3_ego/ego_8.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0065",
+"video": "3_ego/ego_80.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0097",
+"video": "3_ego/ego_80.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0193",
+"video": "3_ego/ego_80.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0221",
+"video": "3_ego/ego_80.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0081",
+"video": "3_ego/ego_81.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0144",
+"video": "3_ego/ego_81.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0160",
+"video": "3_ego/ego_81.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0273",
+"video": "3_ego/ego_9.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "3_ego-0318",
+"video": "3_ego/ego_9.mp4",
+"group": "3_ego",
+"task": "3_ego"
+},
+{
+"qid": "4_count-0098",
+"video": "4_count/count_0.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0106",
+"video": "4_count/count_100.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0174",
+"video": "4_count/count_101.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0030",
+"video": "4_count/count_103.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0153",
+"video": "4_count/count_106.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0074",
+"video": "4_count/count_109.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0004",
+"video": "4_count/count_115.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0077",
+"video": "4_count/count_116.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0148",
+"video": "4_count/count_117.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0086",
+"video": "4_count/count_130.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0014",
+"video": "4_count/count_132.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0189",
+"video": "4_count/count_138.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0052",
+"video": "4_count/count_139.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0196",
+"video": "4_count/count_145.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0136",
+"video": "4_count/count_147.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0060",
+"video": "4_count/count_153.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0182",
+"video": "4_count/count_156.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0049",
+"video": "4_count/count_157.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0114",
+"video": "4_count/count_166.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0172",
+"video": "4_count/count_168.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0019",
+"video": "4_count/count_17.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0175",
+"video": "4_count/count_175.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0168",
+"video": "4_count/count_179.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0018",
+"video": "4_count/count_18.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0177",
+"video": "4_count/count_182.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0037",
+"video": "4_count/count_183.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0113",
+"video": "4_count/count_184.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0101",
+"video": "4_count/count_192.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0173",
+"video": "4_count/count_193.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0165",
+"video": "4_count/count_197.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0140",
+"video": "4_count/count_2.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0197",
+"video": "4_count/count_20.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0198",
+"video": "4_count/count_208.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0183",
+"video": "4_count/count_219.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0149",
+"video": "4_count/count_220.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0135",
+"video": "4_count/count_225.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0039",
+"video": "4_count/count_228.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0115",
+"video": "4_count/count_229.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0046",
+"video": "4_count/count_235.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0181",
+"video": "4_count/count_237.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0191",
+"video": "4_count/count_24.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0184",
+"video": "4_count/count_29.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0162",
+"video": "4_count/count_31.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0158",
+"video": "4_count/count_34.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0156",
+"video": "4_count/count_36.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0154",
+"video": "4_count/count_38.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0169",
+"video": "4_count/count_4.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0134",
+"video": "4_count/count_40.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0130",
+"video": "4_count/count_44.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0126",
+"video": "4_count/count_46.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0124",
+"video": "4_count/count_47.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0123",
+"video": "4_count/count_48.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0088",
+"video": "4_count/count_52.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0082",
+"video": "4_count/count_56.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0080",
+"video": "4_count/count_58.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0079",
+"video": "4_count/count_59.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0118",
+"video": "4_count/count_6.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0048",
+"video": "4_count/count_64.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0047",
+"video": "4_count/count_65.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0045",
+"video": "4_count/count_66.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0042",
+"video": "4_count/count_68.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0011",
+"video": "4_count/count_74.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0010",
+"video": "4_count/count_75.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0007",
+"video": "4_count/count_78.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0150",
+"video": "4_count/count_8.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0112",
+"video": "4_count/count_80.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0108",
+"video": "4_count/count_83.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0103",
+"video": "4_count/count_86.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0167",
+"video": "4_count/count_9.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0075",
+"video": "4_count/count_90.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0069",
+"video": "4_count/count_95.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "4_count-0068",
+"video": "4_count/count_96.mp4",
+"group": "4_count",
+"task": "4_count"
+},
+{
+"qid": "5_order-0019",
+"video": "5_order/order_107.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0004",
+"video": "5_order/order_108.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0039",
+"video": "5_order/order_12.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0200",
+"video": "5_order/order_124.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0000",
+"video": "5_order/order_126.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0118",
+"video": "5_order/order_134.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0101",
+"video": "5_order/order_135.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0084",
+"video": "5_order/order_139.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0035",
+"video": "5_order/order_14.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0010",
+"video": "5_order/order_140.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0121",
+"video": "5_order/order_141.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0086",
+"video": "5_order/order_164.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0051",
+"video": "5_order/order_169.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0030",
+"video": "5_order/order_17.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0250",
+"video": "5_order/order_20.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0213",
+"video": "5_order/order_201.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0108",
+"video": "5_order/order_205.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0257",
+"video": "5_order/order_207.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0251",
+"video": "5_order/order_208.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0002",
+"video": "5_order/order_214.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0254",
+"video": "5_order/order_215.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0098",
+"video": "5_order/order_216.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0197",
+"video": "5_order/order_220.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0007",
+"video": "5_order/order_221.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0103",
+"video": "5_order/order_223.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0247",
+"video": "5_order/order_23.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0193",
+"video": "5_order/order_231.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0255",
+"video": "5_order/order_240.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0172",
+"video": "5_order/order_243.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0223",
+"video": "5_order/order_249.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0245",
+"video": "5_order/order_25.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0147",
+"video": "5_order/order_255.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0224",
+"video": "5_order/order_256.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0052",
+"video": "5_order/order_257.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0042",
+"video": "5_order/order_258.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0166",
+"video": "5_order/order_261.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0047",
+"video": "5_order/order_265.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0139",
+"video": "5_order/order_266.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0205",
+"video": "5_order/order_268.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0214",
+"video": "5_order/order_275.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0123",
+"video": "5_order/order_278.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0018",
+"video": "5_order/order_287.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0120",
+"video": "5_order/order_296.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0189",
+"video": "5_order/order_298.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0215",
+"video": "5_order/order_30.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0195",
+"video": "5_order/order_301.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0100",
+"video": "5_order/order_304.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0062",
+"video": "5_order/order_309.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0069",
+"video": "5_order/order_316.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0168",
+"video": "5_order/order_324.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0048",
+"video": "5_order/order_328.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0140",
+"video": "5_order/order_329.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0088",
+"video": "5_order/order_330.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0235",
+"video": "5_order/order_333.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0206",
+"video": "5_order/order_36.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0204",
+"video": "5_order/order_38.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0220",
+"video": "5_order/order_4.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0134",
+"video": "5_order/order_50.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0133",
+"video": "5_order/order_51.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0124",
+"video": "5_order/order_58.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0085",
+"video": "5_order/order_60.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0074",
+"video": "5_order/order_66.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0071",
+"video": "5_order/order_67.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0014",
+"video": "5_order/order_77.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0013",
+"video": "5_order/order_78.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0011",
+"video": "5_order/order_79.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0145",
+"video": "5_order/order_88.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0218",
+"video": "5_order/order_9.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0115",
+"video": "5_order/order_92.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0114",
+"video": "5_order/order_93.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0113",
+"video": "5_order/order_94.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "5_order-0104",
+"video": "5_order/order_99.mp4",
+"group": "5_order",
+"task": "5_order"
+},
+{
+"qid": "6_anomaly_reco-0107",
+"video": "6_anomaly_reco/surveil_100.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0129",
+"video": "6_anomaly_reco/surveil_102.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0178",
+"video": "6_anomaly_reco/surveil_107.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0125",
+"video": "6_anomaly_reco/surveil_110.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0153",
+"video": "6_anomaly_reco/surveil_114.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0127",
+"video": "6_anomaly_reco/surveil_121.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0191",
+"video": "6_anomaly_reco/surveil_122.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0042",
+"video": "6_anomaly_reco/surveil_124.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0163",
+"video": "6_anomaly_reco/surveil_126.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0052",
+"video": "6_anomaly_reco/surveil_129.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0143",
+"video": "6_anomaly_reco/surveil_13.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0159",
+"video": "6_anomaly_reco/surveil_131.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0156",
+"video": "6_anomaly_reco/surveil_132.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0048",
+"video": "6_anomaly_reco/surveil_133.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0075",
+"video": "6_anomaly_reco/surveil_135.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0078",
+"video": "6_anomaly_reco/surveil_139.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0060",
+"video": "6_anomaly_reco/surveil_14.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0192",
+"video": "6_anomaly_reco/surveil_143.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0019",
+"video": "6_anomaly_reco/surveil_149.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0183",
+"video": "6_anomaly_reco/surveil_150.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0105",
+"video": "6_anomaly_reco/surveil_151.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0128",
+"video": "6_anomaly_reco/surveil_153.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0039",
+"video": "6_anomaly_reco/surveil_156.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0171",
+"video": "6_anomaly_reco/surveil_16.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0010",
+"video": "6_anomaly_reco/surveil_165.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0069",
+"video": "6_anomaly_reco/surveil_167.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0113",
+"video": "6_anomaly_reco/surveil_168.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0161",
+"video": "6_anomaly_reco/surveil_170.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0176",
+"video": "6_anomaly_reco/surveil_172.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0049",
+"video": "6_anomaly_reco/surveil_176.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0076",
+"video": "6_anomaly_reco/surveil_181.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0112",
+"video": "6_anomaly_reco/surveil_182.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0152",
+"video": "6_anomaly_reco/surveil_185.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0094",
+"video": "6_anomaly_reco/surveil_186.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0047",
+"video": "6_anomaly_reco/surveil_187.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0030",
+"video": "6_anomaly_reco/surveil_188.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0140",
+"video": "6_anomaly_reco/surveil_19.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0011",
+"video": "6_anomaly_reco/surveil_192.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0046",
+"video": "6_anomaly_reco/surveil_193.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0018",
+"video": "6_anomaly_reco/surveil_195.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0169",
+"video": "6_anomaly_reco/surveil_196.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0115",
+"video": "6_anomaly_reco/surveil_199.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0085",
+"video": "6_anomaly_reco/surveil_28.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0099",
+"video": "6_anomaly_reco/surveil_29.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0160",
+"video": "6_anomaly_reco/surveil_34.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0014",
+"video": "6_anomaly_reco/surveil_35.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0175",
+"video": "6_anomaly_reco/surveil_36.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0150",
+"video": "6_anomaly_reco/surveil_38.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0121",
+"video": "6_anomaly_reco/surveil_39.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0182",
+"video": "6_anomaly_reco/surveil_44.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0114",
+"video": "6_anomaly_reco/surveil_48.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0089",
+"video": "6_anomaly_reco/surveil_49.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0168",
+"video": "6_anomaly_reco/surveil_51.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0050",
+"video": "6_anomaly_reco/surveil_60.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0185",
+"video": "6_anomaly_reco/surveil_61.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0007",
+"video": "6_anomaly_reco/surveil_63.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0167",
+"video": "6_anomaly_reco/surveil_64.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0134",
+"video": "6_anomaly_reco/surveil_67.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0087",
+"video": "6_anomaly_reco/surveil_68.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0151",
+"video": "6_anomaly_reco/surveil_69.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0141",
+"video": "6_anomaly_reco/surveil_7.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0166",
+"video": "6_anomaly_reco/surveil_73.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0104",
+"video": "6_anomaly_reco/surveil_8.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0095",
+"video": "6_anomaly_reco/surveil_84.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0045",
+"video": "6_anomaly_reco/surveil_86.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0037",
+"video": "6_anomaly_reco/surveil_87.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0081",
+"video": "6_anomaly_reco/surveil_88.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0193",
+"video": "6_anomaly_reco/surveil_89.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0102",
+"video": "6_anomaly_reco/surveil_9.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0004",
+"video": "6_anomaly_reco/surveil_91.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0199",
+"video": "6_anomaly_reco/surveil_92.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "6_anomaly_reco-0109",
+"video": "6_anomaly_reco/surveil_95.mp4",
+"group": "6_anomaly_reco",
+"task": "6_anomaly_reco"
+},
+{
+"qid": "7_topic_reasoning-0085",
+"video": "7_topic_reasoning/208.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0159",
+"video": "7_topic_reasoning/215.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0191",
+"video": "7_topic_reasoning/221.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0014",
+"video": "7_topic_reasoning/232.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0135",
+"video": "7_topic_reasoning/237.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0030",
+"video": "7_topic_reasoning/AWA-12.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0120",
+"video": "7_topic_reasoning/AWA-15.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0104",
+"video": "7_topic_reasoning/AWA-17.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0000",
+"video": "7_topic_reasoning/AWA-6.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0071",
+"video": "7_topic_reasoning/AWB-10.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0194",
+"video": "7_topic_reasoning/AWB-10.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0084",
+"video": "7_topic_reasoning/AWB-4.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0021",
+"video": "7_topic_reasoning/AWC-3.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0048",
+"video": "7_topic_reasoning/AWD-1.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0042",
+"video": "7_topic_reasoning/AWD-7.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0136",
+"video": "7_topic_reasoning/AWE-3.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0207",
+"video": "7_topic_reasoning/ego_10.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0203",
+"video": "7_topic_reasoning/ego_14.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0098",
+"video": "7_topic_reasoning/ego_15.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0013",
+"video": "7_topic_reasoning/ego_17.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0103",
+"video": "7_topic_reasoning/ego_17.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0051",
+"video": "7_topic_reasoning/ego_2.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0019",
+"video": "7_topic_reasoning/ego_21.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0124",
+"video": "7_topic_reasoning/ego_25.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0171",
+"video": "7_topic_reasoning/ego_28.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0011",
+"video": "7_topic_reasoning/en_tv_1.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0101",
+"video": "7_topic_reasoning/en_tv_13.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0180",
+"video": "7_topic_reasoning/en_tv_14.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0212",
+"video": "7_topic_reasoning/en_tv_38.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0232",
+"video": "7_topic_reasoning/game_15.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0254",
+"video": "7_topic_reasoning/game_16.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0239",
+"video": "7_topic_reasoning/game_2.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0259",
+"video": "7_topic_reasoning/game_28.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0261",
+"video": "7_topic_reasoning/game_3.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0255",
+"video": "7_topic_reasoning/game_31.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0237",
+"video": "7_topic_reasoning/game_32.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0243",
+"video": "7_topic_reasoning/game_33.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0258",
+"video": "7_topic_reasoning/game_34.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0228",
+"video": "7_topic_reasoning/game_41.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0226",
+"video": "7_topic_reasoning/game_43.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0222",
+"video": "7_topic_reasoning/game_5.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0133",
+"video": "7_topic_reasoning/haimian_7.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0181",
+"video": "7_topic_reasoning/movie101_105.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0039",
+"video": "7_topic_reasoning/movie101_106.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0062",
+"video": "7_topic_reasoning/movie101_111.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0047",
+"video": "7_topic_reasoning/movie101_12.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0121",
+"video": "7_topic_reasoning/movie101_14.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0115",
+"video": "7_topic_reasoning/movie101_26.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0052",
+"video": "7_topic_reasoning/movie101_28.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0035",
+"video": "7_topic_reasoning/movie101_30.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0010",
+"video": "7_topic_reasoning/movie101_36.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0145",
+"video": "7_topic_reasoning/movie101_41.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0088",
+"video": "7_topic_reasoning/movie101_51.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0007",
+"video": "7_topic_reasoning/movie101_52.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0086",
+"video": "7_topic_reasoning/movie101_54.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0175",
+"video": "7_topic_reasoning/movie101_57.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0140",
+"video": "7_topic_reasoning/movie101_62.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0213",
+"video": "7_topic_reasoning/movie101_62.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0094",
+"video": "7_topic_reasoning/movie101_67.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0105",
+"video": "7_topic_reasoning/movie101_69.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0018",
+"video": "7_topic_reasoning/movie101_72.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0169",
+"video": "7_topic_reasoning/movie101_73.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0004",
+"video": "7_topic_reasoning/movie101_74.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0218",
+"video": "7_topic_reasoning/movie101_79.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0002",
+"video": "7_topic_reasoning/movie101_83.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0118",
+"video": "7_topic_reasoning/movie101_84.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0142",
+"video": "7_topic_reasoning/movie101_87.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0147",
+"video": "7_topic_reasoning/tomjerry_1.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0069",
+"video": "7_topic_reasoning/xiaoliyu_2.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0153",
+"video": "7_topic_reasoning/xiaoliyu_4.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0106",
+"video": "7_topic_reasoning/xiaoliyu_5.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+},
+{
+"qid": "7_topic_reasoning-0074",
+"video": "7_topic_reasoning/xiaoliyu_6.mp4",
+"group": "7_topic_reasoning",
+"task": "7_topic_reasoning"
+}
+]
+}

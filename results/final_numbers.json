@@ -1,0 +1,138 @@
+{
+ "directed": {
+  "llava_ov_main": {
+   "noise_equivalent": 18,
+   "direction_safe": 9,
+   "acc_loss_significant": 0
+  },
+  "llava_video": {
+   "noise_equivalent": 6,
+   "direction_safe": 4,
+   "acc_loss_significant": 0
+  },
+  "qwen3vl": {
+   "noise_equivalent": 3,
+   "direction_safe": 2,
+   "acc_loss_significant": 2
+  }
+ },
+ "verdicts": {
+  "llava_video": {
+   "model": "llava_video",
+   "benchmarks": [
+    "videomme",
+    "egoschema",
+    "longvideobench"
+   ],
+   "H1": {
+    "fragility": {
+     "videomme": 0.38333333333333336,
+     "egoschema": 0.31333333333333335,
+     "longvideobench": 0.38333333333333336
+    },
+    "n_ge_30": 3,
+    "needed": 3,
+    "replicated": true
+   },
+   "H2a": {
+    "lossy": 15,
+    "cells": 15,
+    "share": 1.0,
+    "replicated": true
+   },
+   "H2b": {
+    "noise_equivalent": 6,
+    "cells": 15,
+    "share": 0.4,
+    "replicated": false
+   },
+   "H3": {
+    "lossy_cells": 26,
+    "lossy_hs": 0.7037815126050421,
+    "noise_hs": 0.4794188861985472,
+    "diff": 0.22436262640649485,
+    "ci": [
+     0.1625924830781443,
+     0.289921152726506
+    ],
+    "replicated": true
+   }
+  },
+  "qwen3vl": {
+   "model": "qwen3vl",
+   "benchmarks": [
+    "videomme",
+    "egoschema",
+    "longvideobench"
+   ],
+   "H1": {
+    "fragility": {
+     "videomme": 0.37666666666666665,
+     "egoschema": 0.34,
+     "longvideobench": 0.41
+    },
+    "n_ge_30": 3,
+    "needed": 3,
+    "replicated": true
+   },
+   "H2a": {
+    "lossy": 9,
+    "cells": 9,
+    "share": 1.0,
+    "replicated": true
+   },
+   "H2b": {
+    "noise_equivalent": 3,
+    "cells": 9,
+    "share": 0.3333333333333333,
+    "replicated": false
+   },
+   "H3": {
+    "lossy_cells": 16,
+    "lossy_hs": 0.7685774946921444,
+    "noise_hs": 0.49678800856531047,
+    "diff": 0.27178948612683396,
+    "ci": [
+     0.20582231260817682,
+     0.34106730345358865
+    ],
+    "replicated": true
+   }
+  }
+ },
+ "fragility_agreement": {
+  "videomme": {
+   "n": 300,
+   "any": 0.6333333333333333,
+   "all3": 0.15333333333333332,
+   "all3_if_independent": 0.06304981481481481,
+   "rates": [
+    0.437,
+    0.383,
+    0.377
+   ]
+  },
+  "egoschema": {
+   "n": 300,
+   "any": 0.57,
+   "all3": 0.13333333333333333,
+   "all3_if_independent": 0.03906222222222223,
+   "rates": [
+    0.367,
+    0.313,
+    0.34
+   ]
+  },
+  "longvideobench": {
+   "n": 300,
+   "any": 0.6466666666666666,
+   "all3": 0.18333333333333332,
+   "all3_if_independent": 0.06496222222222221,
+   "rates": [
+    0.413,
+    0.383,
+    0.41
+   ]
+  }
+ }
+}

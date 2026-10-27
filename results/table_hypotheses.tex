@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{Confirmatory hypotheses on LLaVA-OneVision-7B (2,618 questions, five benchmarks).}
+\label{tab:hyp}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{>{\raggedright\arraybackslash}p{1.45cm}>{\raggedright\arraybackslash}p{2.75cm}>{\raggedright\arraybackslash}p{2.35cm}l}
+\toprule
+Hypothesis & Supported if & Result & Met \\
+\midrule
+H1 Fragility & fragility $\geq$ 30\% in $\geq$4 of 5 & 5 of 5 (34.9--43.3\%) & Yes \\
+H2a Damage at 5\% & $\geq$70\% of 35 cells lossy & 33 of 35 (94\%) & Yes \\
+H2b No damage at 25\% & $\geq$70\% of 35 cells noise-equivalent & 13 of 35 (37\%); 17 inconclusive, 5 lossy & No \\
+H2c Methods differ & at 10\%, one noise-equivalent and one lossy, $\geq$3 of 5 & 1 of 5 & No \\
+H3 Direction & harmful-share difference $\geq$0.10, CI $>$ 0 & 0.115 [0.079, 0.150] & Yes \\
+H4 Resolution & noise range $\geq$1 pt in $\geq$4 of 5; $<$20\% of pairs differ at 25\% & 4 of 5; 0 of 105 pairs & Yes \\
+H5 Confidence & Q1 $\geq$3$\times$ Q4 (noise and $\leq$10\%), $\geq$4 of 5 & 5 of 5 & Yes \\
+\bottomrule
+\end{tabular}
+\end{table}

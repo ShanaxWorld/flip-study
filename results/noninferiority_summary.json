@@ -1,0 +1,30 @@
+{
+ "cells": 211,
+ "overlap_cells": [],
+ "noise_equivalent": 30,
+ "ne_noninf_2": 8,
+ "ne_noninf_3": 13,
+ "by_model": {
+  "llava_ov_main": {
+   "ne": 19,
+   "noninf_2": 8,
+   "noninf_3": 13
+  },
+  "llava_video": {
+   "ne": 6,
+   "noninf_2": 0,
+   "noninf_3": 0
+  },
+  "qwen3vl": {
+   "ne": 5,
+   "noninf_2": 0,
+   "noninf_3": 0
+  }
+ },
+ "all_cells_noninf_3_by_budget": {
+  "0.05": 2,
+  "0.1": 8,
+  "0.25": 19
+ },
+ "median_halfwidth_acc_loss_pts": 3.5652020242059037
+}

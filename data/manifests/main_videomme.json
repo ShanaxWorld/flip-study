@@ -1,0 +1,3841 @@
+{
+"benchmark": "videomme",
+"n": 639,
+"sha256_of_qid_list": "f7fbd9a8b658bc24440b8823aaa7b9047ba4df027214038369331875c3c973d9",
+"questions": [
+{
+"qid": "005-1",
+"video": "24i4ncHuf6A",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "005-2",
+"video": "24i4ncHuf6A",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "005-3",
+"video": "24i4ncHuf6A",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "006-1",
+"video": "40BlVzjxu-I",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "006-2",
+"video": "40BlVzjxu-I",
+"group": "short",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "006-3",
+"video": "40BlVzjxu-I",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "030-1",
+"video": "39HTpUG1MwQ",
+"group": "short",
+"task": "Temporal Perception"
+},
+{
+"qid": "030-2",
+"video": "39HTpUG1MwQ",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "030-3",
+"video": "39HTpUG1MwQ",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "077-1",
+"video": "540LkURTR7g",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "077-2",
+"video": "540LkURTR7g",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "077-3",
+"video": "540LkURTR7g",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "080-1",
+"video": "21q-lDikdBg",
+"group": "short",
+"task": "Temporal Perception"
+},
+{
+"qid": "080-2",
+"video": "21q-lDikdBg",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "080-3",
+"video": "21q-lDikdBg",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "092-1",
+"video": "3rTsETO3s9U",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "092-2",
+"video": "3rTsETO3s9U",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "092-3",
+"video": "3rTsETO3s9U",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "100-1",
+"video": "56yT3H_DjVE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "100-2",
+"video": "56yT3H_DjVE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "100-3",
+"video": "56yT3H_DjVE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "107-1",
+"video": "2Qno7H4BwAU",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "107-2",
+"video": "2Qno7H4BwAU",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "107-3",
+"video": "2Qno7H4BwAU",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "121-1",
+"video": "43wqf_KhiUo",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "121-2",
+"video": "43wqf_KhiUo",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "121-3",
+"video": "43wqf_KhiUo",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "132-1",
+"video": "4V6G0qYVoBg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "132-2",
+"video": "4V6G0qYVoBg",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "132-3",
+"video": "4V6G0qYVoBg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "165-1",
+"video": "2yGaTOzaGIA",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "165-2",
+"video": "2yGaTOzaGIA",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "165-3",
+"video": "2yGaTOzaGIA",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "180-1",
+"video": "54YD3Gv-3MI",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "180-2",
+"video": "54YD3Gv-3MI",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "180-3",
+"video": "54YD3Gv-3MI",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "182-1",
+"video": "2QTiAmvygC4",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "182-2",
+"video": "2QTiAmvygC4",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "182-3",
+"video": "2QTiAmvygC4",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "206-1",
+"video": "4H8hcvNeWtg",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "206-2",
+"video": "4H8hcvNeWtg",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "206-3",
+"video": "4H8hcvNeWtg",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "208-1",
+"video": "44ivpEIcBhE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "208-2",
+"video": "44ivpEIcBhE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "208-3",
+"video": "44ivpEIcBhE",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "240-1",
+"video": "4twBzf6ngSc",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "240-2",
+"video": "4twBzf6ngSc",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "240-3",
+"video": "4twBzf6ngSc",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "250-1",
+"video": "2iHmlBmLKUE",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "250-2",
+"video": "2iHmlBmLKUE",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "250-3",
+"video": "2iHmlBmLKUE",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "260-1",
+"video": "3E4Zca1p64s",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "260-2",
+"video": "3E4Zca1p64s",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "260-3",
+"video": "3E4Zca1p64s",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "265-1",
+"video": "5-4Od1qn53s",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "265-2",
+"video": "5-4Od1qn53s",
+"group": "short",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "265-3",
+"video": "5-4Od1qn53s",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "266-1",
+"video": "2gFxZmb0dMo",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "266-2",
+"video": "2gFxZmb0dMo",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "266-3",
+"video": "2gFxZmb0dMo",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "268-1",
+"video": "27YZLpw0M98",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "268-2",
+"video": "27YZLpw0M98",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "268-3",
+"video": "27YZLpw0M98",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "298-1",
+"video": "4ZK-m01XSQ8",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "298-2",
+"video": "4ZK-m01XSQ8",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "298-3",
+"video": "4ZK-m01XSQ8",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "311-1",
+"video": "4jmMWohs1XM",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "311-2",
+"video": "4jmMWohs1XM",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "311-3",
+"video": "4jmMWohs1XM",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "329-1",
+"video": "3uV8XZcIBbk",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "329-2",
+"video": "3uV8XZcIBbk",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "329-3",
+"video": "3uV8XZcIBbk",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "334-1",
+"video": "257wV-AbKaE",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "334-2",
+"video": "257wV-AbKaE",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "334-3",
+"video": "257wV-AbKaE",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "364-1",
+"video": "3fQxvz4ENDg",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "364-2",
+"video": "3fQxvz4ENDg",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "364-3",
+"video": "3fQxvz4ENDg",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "380-1",
+"video": "2Bns2m5Bg4M",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "380-2",
+"video": "2Bns2m5Bg4M",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "380-3",
+"video": "2Bns2m5Bg4M",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "397-1",
+"video": "2za5RwplXdI",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "397-2",
+"video": "2za5RwplXdI",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "397-3",
+"video": "2za5RwplXdI",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "402-1",
+"video": "44G3dPME330",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "402-2",
+"video": "44G3dPME330",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "402-3",
+"video": "44G3dPME330",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "404-1",
+"video": "4aPxxE345OM",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "404-2",
+"video": "4aPxxE345OM",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "404-3",
+"video": "4aPxxE345OM",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "419-1",
+"video": "3EQLFHRHpag",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "419-2",
+"video": "3EQLFHRHpag",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "419-3",
+"video": "3EQLFHRHpag",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "428-1",
+"video": "20gUIdXGuAs",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "428-2",
+"video": "20gUIdXGuAs",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "428-3",
+"video": "20gUIdXGuAs",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "447-1",
+"video": "2NOcM1HoRRg",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "447-2",
+"video": "2NOcM1HoRRg",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "447-3",
+"video": "2NOcM1HoRRg",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "456-1",
+"video": "2Gg4OQo7-zA",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "456-2",
+"video": "2Gg4OQo7-zA",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "456-3",
+"video": "2Gg4OQo7-zA",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "482-1",
+"video": "-3t1rj8g6yg",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "482-2",
+"video": "-3t1rj8g6yg",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "482-3",
+"video": "-3t1rj8g6yg",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "483-1",
+"video": "323v_FtWqvo",
+"group": "medium",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "483-2",
+"video": "323v_FtWqvo",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "483-3",
+"video": "323v_FtWqvo",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "526-1",
+"video": "3EQzRz-V7uE",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "526-2",
+"video": "3EQzRz-V7uE",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "526-3",
+"video": "3EQzRz-V7uE",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "542-1",
+"video": "3x8pvm0g5AU",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "542-2",
+"video": "3x8pvm0g5AU",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "542-3",
+"video": "3x8pvm0g5AU",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "552-1",
+"video": "3m29MQ-qPfg",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "552-2",
+"video": "3m29MQ-qPfg",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "552-3",
+"video": "3m29MQ-qPfg",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "566-1",
+"video": "4ME5ZfDg2aw",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "566-2",
+"video": "4ME5ZfDg2aw",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "566-3",
+"video": "4ME5ZfDg2aw",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "586-1",
+"video": "2ka5AleJ48I",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "586-2",
+"video": "2ka5AleJ48I",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "586-3",
+"video": "2ka5AleJ48I",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "648-1",
+"video": "4iC9Qi3y9q8",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "648-2",
+"video": "4iC9Qi3y9q8",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "648-3",
+"video": "4iC9Qi3y9q8",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "650-1",
+"video": "55Jas5HrzcQ",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "650-2",
+"video": "55Jas5HrzcQ",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "650-3",
+"video": "55Jas5HrzcQ",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "722-1",
+"video": "54H8ppxnp8I",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "722-2",
+"video": "54H8ppxnp8I",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "722-3",
+"video": "54H8ppxnp8I",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "724-1",
+"video": "54k2g9ddy4M",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "724-2",
+"video": "54k2g9ddy4M",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "724-3",
+"video": "54k2g9ddy4M",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "744-1",
+"video": "4od5mdtEp-E",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "744-2",
+"video": "4od5mdtEp-E",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "744-3",
+"video": "4od5mdtEp-E",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "747-1",
+"video": "4qYqPmIO0v0",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "747-2",
+"video": "4qYqPmIO0v0",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "747-3",
+"video": "4qYqPmIO0v0",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "779-1",
+"video": "1wzgMHrkrys",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "779-2",
+"video": "1wzgMHrkrys",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "779-3",
+"video": "1wzgMHrkrys",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "822-1",
+"video": "3MJNKd10kxM",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "822-2",
+"video": "3MJNKd10kxM",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "822-3",
+"video": "3MJNKd10kxM",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "837-1",
+"video": "4VniCsSusJs",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "837-2",
+"video": "4VniCsSusJs",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "837-3",
+"video": "4VniCsSusJs",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "856-1",
+"video": "3HEYqZgC4ko",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "856-2",
+"video": "3HEYqZgC4ko",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "856-3",
+"video": "3HEYqZgC4ko",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "857-1",
+"video": "25Pt1AZO9EM",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "857-2",
+"video": "25Pt1AZO9EM",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "857-3",
+"video": "25Pt1AZO9EM",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "875-1",
+"video": "4IenX7OHumk",
+"group": "long",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "875-2",
+"video": "4IenX7OHumk",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "875-3",
+"video": "4IenX7OHumk",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "883-1",
+"video": "2LDriAWltwM",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "883-2",
+"video": "2LDriAWltwM",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "883-3",
+"video": "2LDriAWltwM",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "035-1",
+"video": "Gh_GtYtQoVI",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "035-2",
+"video": "Gh_GtYtQoVI",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "035-3",
+"video": "Gh_GtYtQoVI",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "038-1",
+"video": "GqeRnxSuLFI",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "038-2",
+"video": "GqeRnxSuLFI",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "038-3",
+"video": "GqeRnxSuLFI",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "046-1",
+"video": "gD0MvkDGAMg",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "046-2",
+"video": "gD0MvkDGAMg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "046-3",
+"video": "gD0MvkDGAMg",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "103-1",
+"video": "G267g0DpCVg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "103-2",
+"video": "G267g0DpCVg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "103-3",
+"video": "G267g0DpCVg",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "145-1",
+"video": "gvtvz-keDmE",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "145-2",
+"video": "gvtvz-keDmE",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "145-3",
+"video": "gvtvz-keDmE",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "171-1",
+"video": "FsLaTZmP6Uw",
+"group": "short",
+"task": "Temporal Perception"
+},
+{
+"qid": "171-2",
+"video": "FsLaTZmP6Uw",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "171-3",
+"video": "FsLaTZmP6Uw",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "192-1",
+"video": "gTBRQaBRiSs",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "192-2",
+"video": "gTBRQaBRiSs",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "192-3",
+"video": "gTBRQaBRiSs",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "194-1",
+"video": "fRf2aYYPrkc",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "194-2",
+"video": "fRf2aYYPrkc",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "194-3",
+"video": "fRf2aYYPrkc",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "219-1",
+"video": "fSDq8CPXHQM",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "219-2",
+"video": "fSDq8CPXHQM",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "219-3",
+"video": "fSDq8CPXHQM",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "224-1",
+"video": "g1MCVp5xICM",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "224-2",
+"video": "g1MCVp5xICM",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "224-3",
+"video": "g1MCVp5xICM",
+"group": "short",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "246-1",
+"video": "frX8GujpmkI",
+"group": "short",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "246-2",
+"video": "frX8GujpmkI",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "246-3",
+"video": "frX8GujpmkI",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "270-1",
+"video": "gR5YcIJhDcU",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "270-2",
+"video": "gR5YcIJhDcU",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "270-3",
+"video": "gR5YcIJhDcU",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "277-1",
+"video": "H8fbAFOMTp4",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "277-2",
+"video": "H8fbAFOMTp4",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "277-3",
+"video": "H8fbAFOMTp4",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "278-1",
+"video": "fQVhppRP4Wo",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "278-2",
+"video": "fQVhppRP4Wo",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "278-3",
+"video": "fQVhppRP4Wo",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "299-1",
+"video": "g7PjwIzqyCQ",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "299-2",
+"video": "g7PjwIzqyCQ",
+"group": "short",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "299-3",
+"video": "g7PjwIzqyCQ",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "335-1",
+"video": "GPOv72Awo68",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "335-2",
+"video": "GPOv72Awo68",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "335-3",
+"video": "GPOv72Awo68",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "338-1",
+"video": "GFTKKyYSCKs",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "338-2",
+"video": "GFTKKyYSCKs",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "338-3",
+"video": "GFTKKyYSCKs",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "344-1",
+"video": "GQEYGAJIzAM",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "344-2",
+"video": "GQEYGAJIzAM",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "344-3",
+"video": "GQEYGAJIzAM",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "361-1",
+"video": "gT2lNXqt2V0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "361-2",
+"video": "gT2lNXqt2V0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "361-3",
+"video": "gT2lNXqt2V0",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "381-1",
+"video": "GWNzRtKzIRA",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "381-2",
+"video": "GWNzRtKzIRA",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "381-3",
+"video": "GWNzRtKzIRA",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "433-1",
+"video": "Gokw6n0qf-w",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "433-2",
+"video": "Gokw6n0qf-w",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "433-3",
+"video": "Gokw6n0qf-w",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "437-1",
+"video": "H54zMD-9Q-8",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "437-2",
+"video": "H54zMD-9Q-8",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "437-3",
+"video": "H54zMD-9Q-8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "473-1",
+"video": "G-mmtUxSt5k",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "473-2",
+"video": "G-mmtUxSt5k",
+"group": "medium",
+"task": "Spatial Perception"
+},
+{
+"qid": "473-3",
+"video": "G-mmtUxSt5k",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "474-1",
+"video": "FYqSATdr62Q",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "474-2",
+"video": "FYqSATdr62Q",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "474-3",
+"video": "FYqSATdr62Q",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "527-1",
+"video": "-gnfUTPmnNU",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "527-2",
+"video": "-gnfUTPmnNU",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "527-3",
+"video": "-gnfUTPmnNU",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "557-1",
+"video": "FtIF8VafVZY",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "557-2",
+"video": "FtIF8VafVZY",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "557-3",
+"video": "FtIF8VafVZY",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "589-1",
+"video": "FYJJbwG_i8U",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "589-2",
+"video": "FYJJbwG_i8U",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "589-3",
+"video": "FYJJbwG_i8U",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "594-1",
+"video": "GrO5sxp3n0E",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "594-2",
+"video": "GrO5sxp3n0E",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "594-3",
+"video": "GrO5sxp3n0E",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "612-1",
+"video": "GLW9omJfAdk",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "612-2",
+"video": "GLW9omJfAdk",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "612-3",
+"video": "GLW9omJfAdk",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "623-1",
+"video": "gfikT_O4v9A",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "623-2",
+"video": "gfikT_O4v9A",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "623-3",
+"video": "gfikT_O4v9A",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "669-1",
+"video": "g1VFfVsZt7w",
+"group": "long",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "669-2",
+"video": "g1VFfVsZt7w",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "669-3",
+"video": "g1VFfVsZt7w",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "674-1",
+"video": "gKjpYd1Ogwg",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "674-2",
+"video": "gKjpYd1Ogwg",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "674-3",
+"video": "gKjpYd1Ogwg",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "707-1",
+"video": "fuDNhWIa6KQ",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "707-2",
+"video": "fuDNhWIa6KQ",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "707-3",
+"video": "fuDNhWIa6KQ",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "712-1",
+"video": "GDzuMTvHnJE",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "712-2",
+"video": "GDzuMTvHnJE",
+"group": "long",
+"task": "Attribute Perception"
+},
+{
+"qid": "712-3",
+"video": "GDzuMTvHnJE",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "714-1",
+"video": "g_1oiJqE3OI",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "714-2",
+"video": "g_1oiJqE3OI",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "714-3",
+"video": "g_1oiJqE3OI",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "762-1",
+"video": "gTPHH880Cyc",
+"group": "long",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "762-2",
+"video": "gTPHH880Cyc",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "762-3",
+"video": "gTPHH880Cyc",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "768-1",
+"video": "g8UiXbc19og",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "768-2",
+"video": "g8UiXbc19og",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "768-3",
+"video": "g8UiXbc19og",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "774-1",
+"video": "GV5CuB4zPTY",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "774-2",
+"video": "GV5CuB4zPTY",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "774-3",
+"video": "GV5CuB4zPTY",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "784-1",
+"video": "FvZFBZB10LA",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "784-2",
+"video": "FvZFBZB10LA",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "784-3",
+"video": "FvZFBZB10LA",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "797-1",
+"video": "H6Y2KRfpRVY",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "797-2",
+"video": "H6Y2KRfpRVY",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "797-3",
+"video": "H6Y2KRfpRVY",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "818-1",
+"video": "Fqptx5fNXR4",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "818-2",
+"video": "Fqptx5fNXR4",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "818-3",
+"video": "Fqptx5fNXR4",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "819-1",
+"video": "GsYi-l5PEEs",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "819-2",
+"video": "GsYi-l5PEEs",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "819-3",
+"video": "GsYi-l5PEEs",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "829-1",
+"video": "h5Jx12SYKzk",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "829-2",
+"video": "h5Jx12SYKzk",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "829-3",
+"video": "h5Jx12SYKzk",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "848-1",
+"video": "gHXaUDx7P0Y",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "848-2",
+"video": "gHXaUDx7P0Y",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "848-3",
+"video": "gHXaUDx7P0Y",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "874-1",
+"video": "h1cv8Fsn4eU",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "874-2",
+"video": "h1cv8Fsn4eU",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "874-3",
+"video": "h1cv8Fsn4eU",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "881-1",
+"video": "goyWFUzCqF4",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "881-2",
+"video": "goyWFUzCqF4",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "881-3",
+"video": "goyWFUzCqF4",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "008-1",
+"video": "_tvmjsKXTu8",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "008-2",
+"video": "_tvmjsKXTu8",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "008-3",
+"video": "_tvmjsKXTu8",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "014-1",
+"video": "uqILuTcux_o",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "014-2",
+"video": "uqILuTcux_o",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "014-3",
+"video": "uqILuTcux_o",
+"group": "short",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "018-1",
+"video": "tX8a00l_Dfs",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "018-2",
+"video": "tX8a00l_Dfs",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "018-3",
+"video": "tX8a00l_Dfs",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "028-1",
+"video": "TVkck1ACKDQ",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "028-2",
+"video": "TVkck1ACKDQ",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "028-3",
+"video": "TVkck1ACKDQ",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "068-1",
+"video": "UZvydHZKyww",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "068-2",
+"video": "UZvydHZKyww",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "068-3",
+"video": "UZvydHZKyww",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "075-1",
+"video": "uz6rjbw0ZA0",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "075-2",
+"video": "uz6rjbw0ZA0",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "075-3",
+"video": "uz6rjbw0ZA0",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "097-1",
+"video": "uoJDGnaVuTg",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "097-2",
+"video": "uoJDGnaVuTg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "097-3",
+"video": "uoJDGnaVuTg",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "133-1",
+"video": "uF3zNOthLAg",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "133-2",
+"video": "uF3zNOthLAg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "133-3",
+"video": "uF3zNOthLAg",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "146-1",
+"video": "V9fsOaa97F4",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "146-2",
+"video": "V9fsOaa97F4",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "146-3",
+"video": "V9fsOaa97F4",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "158-1",
+"video": "uJFbOrNrL3w",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "158-2",
+"video": "uJFbOrNrL3w",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "158-3",
+"video": "uJFbOrNrL3w",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "228-1",
+"video": "ufZMrlZRn8o",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "228-2",
+"video": "ufZMrlZRn8o",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "228-3",
+"video": "ufZMrlZRn8o",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "234-1",
+"video": "v0m3E_uSyFg",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "234-2",
+"video": "v0m3E_uSyFg",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "234-3",
+"video": "v0m3E_uSyFg",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "247-1",
+"video": "uVR-DZQuRbM",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "247-2",
+"video": "uVR-DZQuRbM",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "247-3",
+"video": "uVR-DZQuRbM",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "283-1",
+"video": "UbIVqUDZOs0",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "283-2",
+"video": "UbIVqUDZOs0",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "283-3",
+"video": "UbIVqUDZOs0",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "287-1",
+"video": "UcL6WlcyBcI",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "287-2",
+"video": "UcL6WlcyBcI",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "287-3",
+"video": "UcL6WlcyBcI",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "305-1",
+"video": "tuZcS2Flabw",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "305-2",
+"video": "tuZcS2Flabw",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "305-3",
+"video": "tuZcS2Flabw",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "322-1",
+"video": "UZTf3OXJDWA",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "322-2",
+"video": "UZTf3OXJDWA",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "322-3",
+"video": "UZTf3OXJDWA",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "323-1",
+"video": "URUJD5NEXC8",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "323-2",
+"video": "URUJD5NEXC8",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "323-3",
+"video": "URUJD5NEXC8",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "349-1",
+"video": "V5M_grieetw",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "349-2",
+"video": "V5M_grieetw",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "349-3",
+"video": "V5M_grieetw",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "362-1",
+"video": "TtJVJ9UP7M0",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "362-2",
+"video": "TtJVJ9UP7M0",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "362-3",
+"video": "TtJVJ9UP7M0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "374-1",
+"video": "us78iBEMihk",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "374-2",
+"video": "us78iBEMihk",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "374-3",
+"video": "us78iBEMihk",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "376-1",
+"video": "VBygMK8jRoI",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "376-2",
+"video": "VBygMK8jRoI",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "376-3",
+"video": "VBygMK8jRoI",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "390-1",
+"video": "tVcEEw6qbBQ",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "390-2",
+"video": "tVcEEw6qbBQ",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "390-3",
+"video": "tVcEEw6qbBQ",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "394-1",
+"video": "V6ui161NyTg",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "394-2",
+"video": "V6ui161NyTg",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "394-3",
+"video": "V6ui161NyTg",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "409-1",
+"video": "uMIohuKRq58",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "409-2",
+"video": "uMIohuKRq58",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "409-3",
+"video": "uMIohuKRq58",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "410-1",
+"video": "uC9qU3X1JgM",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "410-2",
+"video": "uC9qU3X1JgM",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "410-3",
+"video": "uC9qU3X1JgM",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "413-1",
+"video": "tXb_zrHp4H8",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "413-2",
+"video": "tXb_zrHp4H8",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "413-3",
+"video": "tXb_zrHp4H8",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "429-1",
+"video": "uw30kZ_z0Q8",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "429-2",
+"video": "uw30kZ_z0Q8",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "429-3",
+"video": "uw30kZ_z0Q8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "438-1",
+"video": "UIvP4xyw9H8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "438-2",
+"video": "UIvP4xyw9H8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "438-3",
+"video": "UIvP4xyw9H8",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "449-1",
+"video": "uKIk-QbbcO8",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "449-2",
+"video": "uKIk-QbbcO8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "449-3",
+"video": "uKIk-QbbcO8",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "461-1",
+"video": "UmIYanq5gH8",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "461-2",
+"video": "UmIYanq5gH8",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "461-3",
+"video": "UmIYanq5gH8",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "463-1",
+"video": "u_f0697yLBI",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "463-2",
+"video": "u_f0697yLBI",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "463-3",
+"video": "u_f0697yLBI",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "466-1",
+"video": "UIX6f0xMQ2U",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "466-2",
+"video": "UIX6f0xMQ2U",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "466-3",
+"video": "UIX6f0xMQ2U",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "487-1",
+"video": "UeOy1WKeTRY",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "487-2",
+"video": "UeOy1WKeTRY",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "487-3",
+"video": "UeOy1WKeTRY",
+"group": "medium",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "499-1",
+"video": "umfD-K4OTKk",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "499-2",
+"video": "umfD-K4OTKk",
+"group": "medium",
+"task": "Spatial Perception"
+},
+{
+"qid": "499-3",
+"video": "umfD-K4OTKk",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "507-1",
+"video": "UTzl0lLoAJE",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "507-2",
+"video": "UTzl0lLoAJE",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "507-3",
+"video": "UTzl0lLoAJE",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "510-1",
+"video": "UGMDV82m3Ro",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "510-2",
+"video": "UGMDV82m3Ro",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "510-3",
+"video": "UGMDV82m3Ro",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "538-1",
+"video": "uhYiRmGURwE",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "538-2",
+"video": "uhYiRmGURwE",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "538-3",
+"video": "uhYiRmGURwE",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "585-1",
+"video": "U8WCRz0Yh4Q",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "585-2",
+"video": "U8WCRz0Yh4Q",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "585-3",
+"video": "U8WCRz0Yh4Q",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "606-1",
+"video": "uC8TK7GH85o",
+"group": "long",
+"task": "Temporal Perception"
+},
+{
+"qid": "606-2",
+"video": "uC8TK7GH85o",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "606-3",
+"video": "uC8TK7GH85o",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "683-1",
+"video": "U9mJuUkhUzk",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "683-2",
+"video": "U9mJuUkhUzk",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "683-3",
+"video": "U9mJuUkhUzk",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "726-1",
+"video": "UyaKyS2wTQk",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "726-2",
+"video": "UyaKyS2wTQk",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "726-3",
+"video": "UyaKyS2wTQk",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "741-1",
+"video": "U9-Qy3H_UBY",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "741-2",
+"video": "U9-Qy3H_UBY",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "741-3",
+"video": "U9-Qy3H_UBY",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "761-1",
+"video": "UZhe_SVdXRc",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "761-2",
+"video": "UZhe_SVdXRc",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "761-3",
+"video": "UZhe_SVdXRc",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "801-1",
+"video": "v4YhsooE5xY",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "801-2",
+"video": "v4YhsooE5xY",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "801-3",
+"video": "v4YhsooE5xY",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "802-1",
+"video": "TYmHe20p_zU",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "802-2",
+"video": "TYmHe20p_zU",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "802-3",
+"video": "TYmHe20p_zU",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "838-1",
+"video": "txdfCHpxzVg",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "838-2",
+"video": "txdfCHpxzVg",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "838-3",
+"video": "txdfCHpxzVg",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "859-1",
+"video": "u4TU2A7eVj8",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "859-2",
+"video": "u4TU2A7eVj8",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "859-3",
+"video": "u4TU2A7eVj8",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "862-1",
+"video": "uzyYKAPcfmE",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "862-2",
+"video": "uzyYKAPcfmE",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "862-3",
+"video": "uzyYKAPcfmE",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "891-1",
+"video": "uuCVnqV4cNc",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "891-2",
+"video": "uuCVnqV4cNc",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "891-3",
+"video": "uuCVnqV4cNc",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "894-1",
+"video": "tslKtm6Le1s",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "894-2",
+"video": "tslKtm6Le1s",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "894-3",
+"video": "tslKtm6Le1s",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "026-1",
+"video": "XWfqBKeC0g8",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "026-2",
+"video": "XWfqBKeC0g8",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "026-3",
+"video": "XWfqBKeC0g8",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "032-1",
+"video": "X30VlGh3HwQ",
+"group": "short",
+"task": "Temporal Perception"
+},
+{
+"qid": "032-2",
+"video": "X30VlGh3HwQ",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "032-3",
+"video": "X30VlGh3HwQ",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "039-1",
+"video": "XOJKiOw8Xqo",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "039-2",
+"video": "XOJKiOw8Xqo",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "039-3",
+"video": "XOJKiOw8Xqo",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "066-1",
+"video": "x6jPuXwtxCM",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "066-2",
+"video": "x6jPuXwtxCM",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "066-3",
+"video": "x6jPuXwtxCM",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "126-1",
+"video": "y6ReUXtm_VE",
+"group": "short",
+"task": "Spatial Reasoning"
+},
+{
+"qid": "126-2",
+"video": "y6ReUXtm_VE",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "126-3",
+"video": "y6ReUXtm_VE",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "188-1",
+"video": "XK6ApJHa59I",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "188-2",
+"video": "XK6ApJHa59I",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "188-3",
+"video": "XK6ApJHa59I",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "210-1",
+"video": "XS6ysDFTbLU",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "210-2",
+"video": "XS6ysDFTbLU",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "210-3",
+"video": "XS6ysDFTbLU",
+"group": "short",
+"task": "Action Reasoning"
+},
+{
+"qid": "352-1",
+"video": "xa6SdvFA3w0",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "352-2",
+"video": "xa6SdvFA3w0",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "352-3",
+"video": "xa6SdvFA3w0",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "370-1",
+"video": "y3am4T5LuKU",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "370-2",
+"video": "y3am4T5LuKU",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "370-3",
+"video": "y3am4T5LuKU",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "395-1",
+"video": "-XpJeDGh8No",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "395-2",
+"video": "-XpJeDGh8No",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "395-3",
+"video": "-XpJeDGh8No",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "412-1",
+"video": "xr_nln2ZQw8",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "412-2",
+"video": "xr_nln2ZQw8",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "412-3",
+"video": "xr_nln2ZQw8",
+"group": "medium",
+"task": "Attribute Perception"
+},
+{
+"qid": "452-1",
+"video": "Xim8-lUZnsA",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "452-2",
+"video": "Xim8-lUZnsA",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "452-3",
+"video": "Xim8-lUZnsA",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "502-1",
+"video": "XoaWHHNiw1w",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "502-2",
+"video": "XoaWHHNiw1w",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "502-3",
+"video": "XoaWHHNiw1w",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "506-1",
+"video": "xYdeRoM78h4",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "506-2",
+"video": "xYdeRoM78h4",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "506-3",
+"video": "xYdeRoM78h4",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "531-1",
+"video": "xk8PdL_PdSo",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "531-2",
+"video": "xk8PdL_PdSo",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "531-3",
+"video": "xk8PdL_PdSo",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "546-1",
+"video": "x8zGsWuu-e0",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "546-2",
+"video": "x8zGsWuu-e0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "546-3",
+"video": "x8zGsWuu-e0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "547-1",
+"video": "x-ccfWcbht4",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "547-2",
+"video": "x-ccfWcbht4",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "547-3",
+"video": "x-ccfWcbht4",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "556-1",
+"video": "XkFulQe9EVE",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "556-2",
+"video": "XkFulQe9EVE",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "556-3",
+"video": "XkFulQe9EVE",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "588-1",
+"video": "xre_3dxdhkQ",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "588-2",
+"video": "xre_3dxdhkQ",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "588-3",
+"video": "xre_3dxdhkQ",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "605-1",
+"video": "xKiRmesHWIA",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "605-2",
+"video": "xKiRmesHWIA",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "605-3",
+"video": "xKiRmesHWIA",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "664-1",
+"video": "x1qEBVBxE10",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "664-2",
+"video": "x1qEBVBxE10",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "664-3",
+"video": "x1qEBVBxE10",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "680-1",
+"video": "y2kg3MOk1sY",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "680-2",
+"video": "y2kg3MOk1sY",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "680-3",
+"video": "y2kg3MOk1sY",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "705-1",
+"video": "X6UqTmRAApw",
+"group": "long",
+"task": "Attribute Perception"
+},
+{
+"qid": "705-2",
+"video": "X6UqTmRAApw",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "705-3",
+"video": "X6UqTmRAApw",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "708-1",
+"video": "xGcfBRkJSWQ",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "708-2",
+"video": "xGcfBRkJSWQ",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "708-3",
+"video": "xGcfBRkJSWQ",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "709-1",
+"video": "XRQ2L8BaI1A",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "709-2",
+"video": "XRQ2L8BaI1A",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "709-3",
+"video": "XRQ2L8BaI1A",
+"group": "long",
+"task": "Attribute Perception"
+},
+{
+"qid": "711-1",
+"video": "XOfeqRgaF1A",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "711-2",
+"video": "XOfeqRgaF1A",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "711-3",
+"video": "XOfeqRgaF1A",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "713-1",
+"video": "y4-CnqfK3pk",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "713-2",
+"video": "y4-CnqfK3pk",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "713-3",
+"video": "y4-CnqfK3pk",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "732-1",
+"video": "xvQOEdwAgj0",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "732-2",
+"video": "xvQOEdwAgj0",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "732-3",
+"video": "xvQOEdwAgj0",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "736-1",
+"video": "-y1U0qk1vDs",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "736-2",
+"video": "-y1U0qk1vDs",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "736-3",
+"video": "-y1U0qk1vDs",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "775-1",
+"video": "Xjf5N9S3jAA",
+"group": "long",
+"task": "Counting Problem"
+},
+{
+"qid": "775-2",
+"video": "Xjf5N9S3jAA",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "775-3",
+"video": "Xjf5N9S3jAA",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "782-1",
+"video": "-xZglYQSJ3Q",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "782-2",
+"video": "-xZglYQSJ3Q",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "782-3",
+"video": "-xZglYQSJ3Q",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "794-1",
+"video": "XDq08lk5GnQ",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "794-2",
+"video": "XDq08lk5GnQ",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "794-3",
+"video": "XDq08lk5GnQ",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "840-1",
+"video": "y9Fne3oUwX4",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "840-2",
+"video": "y9Fne3oUwX4",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "840-3",
+"video": "y9Fne3oUwX4",
+"group": "long",
+"task": "OCR Problems"
+},
+{
+"qid": "866-1",
+"video": "xNgVeznQmXI",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "866-2",
+"video": "xNgVeznQmXI",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "866-3",
+"video": "xNgVeznQmXI",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "896-1",
+"video": "xIWaK92gRlo",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "896-2",
+"video": "xIWaK92gRlo",
+"group": "long",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "896-3",
+"video": "xIWaK92gRlo",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "033-1",
+"video": "zKyWRRJQbkM",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "033-2",
+"video": "zKyWRRJQbkM",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "033-3",
+"video": "zKyWRRJQbkM",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "057-1",
+"video": "zBnKgwnn7i4",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "057-2",
+"video": "zBnKgwnn7i4",
+"group": "short",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "057-3",
+"video": "zBnKgwnn7i4",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "122-1",
+"video": "Z-rHofd6g2Q",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "122-2",
+"video": "Z-rHofd6g2Q",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "122-3",
+"video": "Z-rHofd6g2Q",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "163-1",
+"video": "zNxi2s36tS0",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "163-2",
+"video": "zNxi2s36tS0",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "163-3",
+"video": "zNxi2s36tS0",
+"group": "short",
+"task": "OCR Problems"
+},
+{
+"qid": "232-1",
+"video": "zPx3EibuO_w",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "232-2",
+"video": "zPx3EibuO_w",
+"group": "short",
+"task": "Object Reasoning"
+},
+{
+"qid": "232-3",
+"video": "zPx3EibuO_w",
+"group": "short",
+"task": "Information Synopsis"
+},
+{
+"qid": "245-1",
+"video": "ZO12ZY38FEw",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "245-2",
+"video": "ZO12ZY38FEw",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "245-3",
+"video": "ZO12ZY38FEw",
+"group": "short",
+"task": "Counting Problem"
+},
+{
+"qid": "258-1",
+"video": "ZfNSxRiYfZQ",
+"group": "short",
+"task": "Attribute Perception"
+},
+{
+"qid": "258-2",
+"video": "ZfNSxRiYfZQ",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "258-3",
+"video": "ZfNSxRiYfZQ",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "269-1",
+"video": "ZXoaMa6jlO4",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "269-2",
+"video": "ZXoaMa6jlO4",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "269-3",
+"video": "ZXoaMa6jlO4",
+"group": "short",
+"task": "Object Recognition"
+},
+{
+"qid": "275-1",
+"video": "ZHWZf1Z4B5k",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "275-2",
+"video": "ZHWZf1Z4B5k",
+"group": "short",
+"task": "Spatial Perception"
+},
+{
+"qid": "275-3",
+"video": "ZHWZf1Z4B5k",
+"group": "short",
+"task": "Action Recognition"
+},
+{
+"qid": "326-1",
+"video": "ZGGDKC3GlrI",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "326-2",
+"video": "ZGGDKC3GlrI",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "326-3",
+"video": "ZGGDKC3GlrI",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "332-1",
+"video": "zIbNJCSCEjk",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "332-2",
+"video": "zIbNJCSCEjk",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "332-3",
+"video": "zIbNJCSCEjk",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "336-1",
+"video": "ZCFkWDdmXG8",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "336-2",
+"video": "ZCFkWDdmXG8",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "336-3",
+"video": "ZCFkWDdmXG8",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "355-1",
+"video": "ZQP-7BPvvq0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "355-2",
+"video": "ZQP-7BPvvq0",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "355-3",
+"video": "ZQP-7BPvvq0",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "366-1",
+"video": "zOgYnntFl-k",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "366-2",
+"video": "zOgYnntFl-k",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "366-3",
+"video": "zOgYnntFl-k",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "400-1",
+"video": "ZN6kyy2SXnk",
+"group": "medium",
+"task": "Spatial Perception"
+},
+{
+"qid": "400-2",
+"video": "ZN6kyy2SXnk",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "400-3",
+"video": "ZN6kyy2SXnk",
+"group": "medium",
+"task": "Counting Problem"
+},
+{
+"qid": "464-1",
+"video": "ZQIZx5Oqw88",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "464-2",
+"video": "ZQIZx5Oqw88",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "464-3",
+"video": "ZQIZx5Oqw88",
+"group": "medium",
+"task": "Temporal Perception"
+},
+{
+"qid": "465-1",
+"video": "zW87tVnDKIU",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "465-2",
+"video": "zW87tVnDKIU",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "465-3",
+"video": "zW87tVnDKIU",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "470-1",
+"video": "ZFtxvf72NxA",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "470-2",
+"video": "ZFtxvf72NxA",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "470-3",
+"video": "ZFtxvf72NxA",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "511-1",
+"video": "zbvamKv81o0",
+"group": "medium",
+"task": "Information Synopsis"
+},
+{
+"qid": "511-2",
+"video": "zbvamKv81o0",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "511-3",
+"video": "zbvamKv81o0",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "534-1",
+"video": "ZBKUqc_ICpg",
+"group": "medium",
+"task": "Temporal Reasoning"
+},
+{
+"qid": "534-2",
+"video": "ZBKUqc_ICpg",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "534-3",
+"video": "ZBKUqc_ICpg",
+"group": "medium",
+"task": "Object Reasoning"
+},
+{
+"qid": "555-1",
+"video": "Zjl2vmy02As",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "555-2",
+"video": "Zjl2vmy02As",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "555-3",
+"video": "Zjl2vmy02As",
+"group": "medium",
+"task": "Action Recognition"
+},
+{
+"qid": "587-1",
+"video": "zPyWOtToo6E",
+"group": "medium",
+"task": "Action Reasoning"
+},
+{
+"qid": "587-2",
+"video": "zPyWOtToo6E",
+"group": "medium",
+"task": "OCR Problems"
+},
+{
+"qid": "587-3",
+"video": "zPyWOtToo6E",
+"group": "medium",
+"task": "Object Recognition"
+},
+{
+"qid": "607-1",
+"video": "zxKPjD8urG4",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "607-2",
+"video": "zxKPjD8urG4",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "607-3",
+"video": "zxKPjD8urG4",
+"group": "long",
+"task": "Attribute Perception"
+},
+{
+"qid": "867-1",
+"video": "ZLRyTFIZOIs",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "867-2",
+"video": "ZLRyTFIZOIs",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "867-3",
+"video": "ZLRyTFIZOIs",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "871-1",
+"video": "ZkhAbUGoD18",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "871-2",
+"video": "ZkhAbUGoD18",
+"group": "long",
+"task": "Object Reasoning"
+},
+{
+"qid": "871-3",
+"video": "ZkhAbUGoD18",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "872-1",
+"video": "ZP-Y2S750KY",
+"group": "long",
+"task": "Information Synopsis"
+},
+{
+"qid": "872-2",
+"video": "ZP-Y2S750KY",
+"group": "long",
+"task": "Object Recognition"
+},
+{
+"qid": "872-3",
+"video": "ZP-Y2S750KY",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "879-1",
+"video": "zAXbdzvCeV8",
+"group": "long",
+"task": "Action Reasoning"
+},
+{
+"qid": "879-2",
+"video": "zAXbdzvCeV8",
+"group": "long",
+"task": "Action Recognition"
+},
+{
+"qid": "879-3",
+"video": "zAXbdzvCeV8",
+"group": "long",
+"task": "Information Synopsis"
+}
+]
+}

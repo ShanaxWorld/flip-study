@@ -1,0 +1,42 @@
+\begin{table*}[t]
+\centering
+\caption{Excess flips $\Delta$ (percentage points) for every cell. $^{\blacktriangle}$ lossy (95\% CI above 0); $^{\circ}$ noise-equivalent (CI below $\delta=3$ points); unmarked: inconclusive. DyCoke runs at its own budgets (35\% and 28\%). The last column pools the five benchmarks with equal weight (post hoc).}
+\label{tab:cells}
+\small
+\begin{tabular}{llrrrrrr}
+\toprule
+Method & Budget & Video-MME & MVBench & EgoSchema & LongVideoBench & MLVU & Pooled \\
+\midrule
+FlashVID & 5\% & +10.3$^{\blacktriangle}$ & +9.2$^{\blacktriangle}$ & +2.6 & +9.2$^{\blacktriangle}$ & +9.8$^{\blacktriangle}$ & +8.2$^{\blacktriangle}$ \\
+ & 10\% & +3.2$^{\blacktriangle}$ & +4.9$^{\blacktriangle}$ & -0.3$^{\circ}$ & +1.1 & +4.8$^{\blacktriangle}$ & +2.8$^{\blacktriangle}$ \\
+ & 25\% & -2.0$^{\circ}$ & +0.6 & -1.9$^{\circ}$ & -2.6$^{\circ}$ & +0.4 & -1.1$^{\circ}$ \\
+\addlinespace[2pt]
+FastVID & 5\% & +13.6$^{\blacktriangle}$ & +9.9$^{\blacktriangle}$ & +4.4$^{\blacktriangle}$ & +8.4$^{\blacktriangle}$ & +12.8$^{\blacktriangle}$ & +9.8$^{\blacktriangle}$ \\
+ & 10\% & +4.8$^{\blacktriangle}$ & +4.2$^{\blacktriangle}$ & +1.2 & +1.9 & +4.6$^{\blacktriangle}$ & +3.3$^{\blacktriangle}$ \\
+ & 25\% & -1.1$^{\circ}$ & 0.0$^{\circ}$ & -1.0$^{\circ}$ & -1.0$^{\circ}$ & -0.5$^{\circ}$ & -0.7$^{\circ}$ \\
+\addlinespace[2pt]
+HoliTom & 5\% & +10.3$^{\blacktriangle}$ & +10.6$^{\blacktriangle}$ & +1.9 & +8.9$^{\blacktriangle}$ & +8.7$^{\blacktriangle}$ & +8.1$^{\blacktriangle}$ \\
+ & 10\% & +4.9$^{\blacktriangle}$ & +6.8$^{\blacktriangle}$ & +0.6 & +5.9$^{\blacktriangle}$ & +5.0$^{\blacktriangle}$ & +4.7$^{\blacktriangle}$ \\
+ & 25\% & +0.5 & +0.4 & -1.8$^{\circ}$ & -0.1$^{\circ}$ & +2.6 & +0.3$^{\circ}$ \\
+\addlinespace[2pt]
+VisionZip & 5\% & +20.0$^{\blacktriangle}$ & +33.2$^{\blacktriangle}$ & +15.7$^{\blacktriangle}$ & +24.4$^{\blacktriangle}$ & +17.5$^{\blacktriangle}$ & +22.2$^{\blacktriangle}$ \\
+ & 10\% & +11.3$^{\blacktriangle}$ & +12.8$^{\blacktriangle}$ & +2.3 & +15.0$^{\blacktriangle}$ & +10.1$^{\blacktriangle}$ & +10.3$^{\blacktriangle}$ \\
+ & 25\% & +1.1 & +3.6$^{\blacktriangle}$ & -1.2$^{\circ}$ & +0.3 & +2.3 & +1.2$^{\blacktriangle}$ \\
+\addlinespace[2pt]
+LLaVA-Scissor & 5\% & +10.5$^{\blacktriangle}$ & +13.4$^{\blacktriangle}$ & +6.7$^{\blacktriangle}$ & +14.7$^{\blacktriangle}$ & +12.8$^{\blacktriangle}$ & +11.6$^{\blacktriangle}$ \\
+ & 10\% & +9.7$^{\blacktriangle}$ & +7.0$^{\blacktriangle}$ & +1.8 & +9.7$^{\blacktriangle}$ & +7.9$^{\blacktriangle}$ & +7.2$^{\blacktriangle}$ \\
+ & 25\% & +4.6$^{\blacktriangle}$ & +4.4$^{\blacktriangle}$ & -1.1$^{\circ}$ & +2.3 & +4.8$^{\blacktriangle}$ & +3.0$^{\blacktriangle}$ \\
+\addlinespace[2pt]
+Uniform pooling & 5\% & +15.9$^{\blacktriangle}$ & +24.7$^{\blacktriangle}$ & +15.5$^{\blacktriangle}$ & +18.7$^{\blacktriangle}$ & +14.5$^{\blacktriangle}$ & +17.9$^{\blacktriangle}$ \\
+ & 10\% & +9.9$^{\blacktriangle}$ & +14.1$^{\blacktriangle}$ & +10.5$^{\blacktriangle}$ & +10.2$^{\blacktriangle}$ & +7.3$^{\blacktriangle}$ & +10.4$^{\blacktriangle}$ \\
+ & 25\% & +1.5 & +3.5$^{\blacktriangle}$ & +1.2 & +1.9 & +0.3 & +1.7$^{\blacktriangle}$ \\
+\addlinespace[2pt]
+Random drop & 5\% & +13.8$^{\blacktriangle}$ & +11.5$^{\blacktriangle}$ & +5.9$^{\blacktriangle}$ & +12.2$^{\blacktriangle}$ & +11.7$^{\blacktriangle}$ & +11.0$^{\blacktriangle}$ \\
+ & 10\% & +7.1$^{\blacktriangle}$ & +6.1$^{\blacktriangle}$ & +0.3$^{\circ}$ & +6.8$^{\blacktriangle}$ & +5.0$^{\blacktriangle}$ & +5.1$^{\blacktriangle}$ \\
+ & 25\% & +2.8 & +0.4 & -2.2$^{\circ}$ & +0.3 & +1.9 & +0.7$^{\circ}$ \\
+\addlinespace[2pt]
+DyCoke & 35\% & +2.0 & +0.1$^{\circ}$ & -1.8$^{\circ}$ & +1.1 & +1.0 & +0.5$^{\circ}$ \\
+ & 28\% & +5.6$^{\blacktriangle}$ & +1.6 & -0.6$^{\circ}$ & +4.2$^{\blacktriangle}$ & +5.0$^{\blacktriangle}$ & +3.1$^{\blacktriangle}$ \\
+\bottomrule
+\end{tabular}
+\end{table*}

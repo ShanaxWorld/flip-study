@@ -1,0 +1,2857 @@
+{
+"benchmark": "mvbench",
+"n": 475,
+"sha256_of_qid_list": "de8917c4c033a0324947782fd096108582c484342b7a88269850916aa0b4a23f",
+"questions": [
+{
+"qid": "action_antonym-0007",
+"video": "ssv2_video_mp4/207257.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0010",
+"video": "ssv2_video_mp4/143913.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0019",
+"video": "ssv2_video_mp4/114154.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0045",
+"video": "ssv2_video_mp4/186056.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0046",
+"video": "ssv2_video_mp4/115191.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0047",
+"video": "ssv2_video_mp4/107628.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0048",
+"video": "ssv2_video_mp4/141992.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0052",
+"video": "ssv2_video_mp4/24132.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0080",
+"video": "ssv2_video_mp4/40326.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0082",
+"video": "ssv2_video_mp4/54338.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0094",
+"video": "ssv2_video_mp4/26992.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0103",
+"video": "ssv2_video_mp4/192841.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0105",
+"video": "ssv2_video_mp4/41003.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0112",
+"video": "ssv2_video_mp4/3224.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0113",
+"video": "ssv2_video_mp4/149360.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0127",
+"video": "ssv2_video_mp4/65251.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0128",
+"video": "ssv2_video_mp4/220410.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0150",
+"video": "ssv2_video_mp4/123269.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0162",
+"video": "ssv2_video_mp4/50154.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0171",
+"video": "ssv2_video_mp4/17924.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0175",
+"video": "ssv2_video_mp4/184211.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0183",
+"video": "ssv2_video_mp4/213615.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0184",
+"video": "ssv2_video_mp4/207821.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0191",
+"video": "ssv2_video_mp4/76039.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_antonym-0196",
+"video": "ssv2_video_mp4/48744.mp4",
+"group": "action_antonym",
+"task": "action_antonym"
+},
+{
+"qid": "action_count-0007",
+"video": "perception/videos/video_1803.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0010",
+"video": "perception/videos/video_9507.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0019",
+"video": "perception/videos/video_8612.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0045",
+"video": "perception/videos/video_362.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0046",
+"video": "perception/videos/video_11370.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0047",
+"video": "perception/videos/video_1225.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0048",
+"video": "perception/videos/video_8949.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0052",
+"video": "perception/videos/video_4714.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0080",
+"video": "perception/videos/video_2024.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0082",
+"video": "perception/videos/video_9676.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0094",
+"video": "perception/videos/video_1827.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0103",
+"video": "perception/videos/video_5367.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0105",
+"video": "perception/videos/video_7805.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0112",
+"video": "perception/videos/video_11455.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0113",
+"video": "perception/videos/video_7337.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0127",
+"video": "perception/videos/video_7868.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0128",
+"video": "perception/videos/video_10614.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0150",
+"video": "perception/videos/video_1577.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0162",
+"video": "perception/videos/video_8708.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0171",
+"video": "perception/videos/video_10328.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0175",
+"video": "perception/videos/video_933.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0183",
+"video": "perception/videos/video_345.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0184",
+"video": "perception/videos/video_7589.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0191",
+"video": "perception/videos/video_9087.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_count-0196",
+"video": "perception/videos/video_3463.mp4",
+"group": "action_count",
+"task": "action_count"
+},
+{
+"qid": "action_localization-0007",
+"video": "sta/sta_video_segment/NBMH9_21.4_37.6.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0010",
+"video": "sta/sta_video_segment/2UQKZ_6.0_22.8.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0019",
+"video": "sta/sta_video_segment/BDY1V_3.7_19.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0045",
+"video": "sta/sta_video_segment/4BIMI_4.9_22.4.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0046",
+"video": "sta/sta_video_segment/TU9K1_15.9_35.4.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0047",
+"video": "sta/sta_video_segment/C10FA_16.4_32.2.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0048",
+"video": "sta/sta_video_segment/UKSCV_7.7_23.5.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0052",
+"video": "sta/sta_video_segment/FMZOY_22.799999999999997_41.1.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0080",
+"video": "sta/sta_video_segment/J2XFQ_6.599999999999998_22.5.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0082",
+"video": "sta/sta_video_segment/5OV3M_4.599999999999998_25.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0094",
+"video": "sta/sta_video_segment/WM6RQ_1.799999999999999_18.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0103",
+"video": "sta/sta_video_segment/ME4YL_4.0_23.5.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0105",
+"video": "sta/sta_video_segment/RNLTR_1.0999999999999996_19.7.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0112",
+"video": "sta/sta_video_segment/GL2JW_7.900000000000002_28.9.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0113",
+"video": "sta/sta_video_segment/RFH6M_5.600000000000001_27.5.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0127",
+"video": "sta/sta_video_segment/2Y8XQ_7.599999999999998_30.400000000000002.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0128",
+"video": "sta/sta_video_segment/MB281_8.8_25.3.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0150",
+"video": "sta/sta_video_segment/AZPOX_0.0_19.799999999999997.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0162",
+"video": "sta/sta_video_segment/5I5E5_2.6_20.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0171",
+"video": "sta/sta_video_segment/U9NI5_0.0_15.299999999999999.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0175",
+"video": "sta/sta_video_segment/D7W4E_6.5_28.099999999999998.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0183",
+"video": "sta/sta_video_segment/KK7D4_0.0_18.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0184",
+"video": "sta/sta_video_segment/W0XPU_0.3_18.9.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0191",
+"video": "sta/sta_video_segment/HSKVH_4.0_22.900000000000002.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_localization-0196",
+"video": "sta/sta_video_segment/GAOV2_2.3_23.0.mp4",
+"group": "action_localization",
+"task": "action_localization"
+},
+{
+"qid": "action_prediction-0007",
+"video": "star/Charades_segment/5INX3_0.0_34.6.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0010",
+"video": "star/Charades_segment/78R4Y_1.6_11.25.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0019",
+"video": "star/Charades_segment/TVCQF_4.7_13.25.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0045",
+"video": "star/Charades_segment/TCN06_0.0_13.925.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0046",
+"video": "star/Charades_segment/55AH5_0.0_16.775.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0047",
+"video": "star/Charades_segment/FL6DF_3.2_10.15.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0048",
+"video": "star/Charades_segment/B69CF_0.0_15.65.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0052",
+"video": "star/Charades_segment/GLGQJ_0.0_23.150000000000002.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0080",
+"video": "star/Charades_segment/9OMY1_0.0_23.5.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0082",
+"video": "star/Charades_segment/3ZC4Y_0.0_19.125.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0094",
+"video": "star/Charades_segment/NEM29_4.0_20.725.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0103",
+"video": "star/Charades_segment/O2OUX_7.8_14.6.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0105",
+"video": "star/Charades_segment/KQYR0_0.9_17.525.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0112",
+"video": "star/Charades_segment/U0X4P_0.0_27.35.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0113",
+"video": "star/Charades_segment/OUAIS_0.0_24.575000000000003.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0127",
+"video": "star/Charades_segment/V0ZD9_0.5_24.75.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0128",
+"video": "star/Charades_segment/UDGP2_0.0_16.65.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0150",
+"video": "star/Charades_segment/5XKVP_0.0_9.125.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0162",
+"video": "star/Charades_segment/Z6HEA_0.0_10.875.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0171",
+"video": "star/Charades_segment/NW0KT_4.7_14.85.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0175",
+"video": "star/Charades_segment/F9YMU_0.0_13.05.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0183",
+"video": "star/Charades_segment/XZ9C0_0.0_16.075.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0184",
+"video": "star/Charades_segment/15PMU_0.9_16.925.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0191",
+"video": "star/Charades_segment/VS7VS_3.1_19.575000000000003.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_prediction-0196",
+"video": "star/Charades_segment/PZD7Z_0.0_11.525.mp4",
+"group": "action_prediction",
+"task": "action_prediction"
+},
+{
+"qid": "action_sequence-0007",
+"video": "star/Charades_segment/VKXLL_22.1_36.2.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0010",
+"video": "star/Charades_segment/M2XIS_0.0_7.4.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0019",
+"video": "star/Charades_segment/L9J5I_0.0_16.7.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0045",
+"video": "star/Charades_segment/983K8_0.0_12.5.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0046",
+"video": "star/Charades_segment/VO45S_9.1_27.7.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0047",
+"video": "star/Charades_segment/1UI6I_4.5_16.4.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0048",
+"video": "star/Charades_segment/84893_0.7_15.3.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0052",
+"video": "star/Charades_segment/ZAJAJ_2.4_17.6.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0080",
+"video": "star/Charades_segment/O7OD2_4.4_16.1.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0082",
+"video": "star/Charades_segment/D1NT7_15.5_33.0.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0094",
+"video": "star/Charades_segment/5NG6Q_13.8_25.6.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0103",
+"video": "star/Charades_segment/Z6HEA_2.6_16.2.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0105",
+"video": "star/Charades_segment/FL6DF_10.3_19.7.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0171",
+"video": "star/Charades_segment/FL6DF_10.3_19.7.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0112",
+"video": "star/Charades_segment/8BBX0_8.1_19.3.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0113",
+"video": "star/Charades_segment/S1J2Q_4.4_20.8.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0127",
+"video": "star/Charades_segment/21MI8_3.9_13.4.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0128",
+"video": "star/Charades_segment/2NV6L_9.6_27.8.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0150",
+"video": "star/Charades_segment/8DL54_17.1_27.8.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0162",
+"video": "star/Charades_segment/N7130_0.0_13.5.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0175",
+"video": "star/Charades_segment/1E7VU_3.5_18.5.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0183",
+"video": "star/Charades_segment/M7BD4_0.0_19.6.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0184",
+"video": "star/Charades_segment/ZVRBL_0.0_16.6.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0191",
+"video": "star/Charades_segment/HONL7_0.1_11.0.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "action_sequence-0196",
+"video": "star/Charades_segment/UY0SK_10.9_18.0.mp4",
+"group": "action_sequence",
+"task": "action_sequence"
+},
+{
+"qid": "character_order-0007",
+"video": "perception/videos/video_3041.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0010",
+"video": "perception/videos/video_8457.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0019",
+"video": "perception/videos/video_9724.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0045",
+"video": "perception/videos/video_8170.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0046",
+"video": "perception/videos/video_10461.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0047",
+"video": "perception/videos/video_10857.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0048",
+"video": "perception/videos/video_4432.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0052",
+"video": "perception/videos/video_10287.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0080",
+"video": "perception/videos/video_3597.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0082",
+"video": "perception/videos/video_9427.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0094",
+"video": "perception/videos/video_726.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0103",
+"video": "perception/videos/video_8373.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0105",
+"video": "perception/videos/video_6578.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0112",
+"video": "perception/videos/video_2125.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0113",
+"video": "perception/videos/video_9617.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0127",
+"video": "perception/videos/video_11183.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0128",
+"video": "perception/videos/video_3929.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0150",
+"video": "perception/videos/video_10826.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0162",
+"video": "perception/videos/video_6470.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0171",
+"video": "perception/videos/video_4451.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0175",
+"video": "perception/videos/video_8117.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0183",
+"video": "perception/videos/video_1583.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0184",
+"video": "perception/videos/video_861.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0191",
+"video": "perception/videos/video_11469.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "character_order-0196",
+"video": "perception/videos/video_9023.mp4",
+"group": "character_order",
+"task": "character_order"
+},
+{
+"qid": "counterfactual_inference-0007",
+"video": "clevrer/video_validation/video_12209.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0010",
+"video": "clevrer/video_validation/video_12723.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0019",
+"video": "clevrer/video_validation/video_12783.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0030",
+"video": "clevrer/video_validation/video_10039.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0039",
+"video": "clevrer/video_validation/video_11295.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0042",
+"video": "clevrer/video_validation/video_10402.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0046",
+"video": "clevrer/video_validation/video_11204.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0048",
+"video": "clevrer/video_validation/video_11241.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0060",
+"video": "clevrer/video_validation/video_10116.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0075",
+"video": "clevrer/video_validation/video_10120.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0083",
+"video": "clevrer/video_validation/video_13716.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0089",
+"video": "clevrer/video_validation/video_12956.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0107",
+"video": "clevrer/video_validation/video_10242.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0108",
+"video": "clevrer/video_validation/video_11534.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0118",
+"video": "clevrer/video_validation/video_10417.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0154",
+"video": "clevrer/video_validation/video_11449.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0155",
+"video": "clevrer/video_validation/video_10951.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0158",
+"video": "clevrer/video_validation/video_14928.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0167",
+"video": "clevrer/video_validation/video_14754.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0168",
+"video": "clevrer/video_validation/video_13615.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0169",
+"video": "clevrer/video_validation/video_10442.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0175",
+"video": "clevrer/video_validation/video_12788.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0190",
+"video": "clevrer/video_validation/video_13761.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0196",
+"video": "clevrer/video_validation/video_10094.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "counterfactual_inference-0199",
+"video": "clevrer/video_validation/video_13424.mp4",
+"group": "counterfactual_inference",
+"task": "counterfactual_inference"
+},
+{
+"qid": "egocentric_navigation-0007",
+"video": "vlnqa/left/1581_frame33.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0010",
+"video": "vlnqa/left/5938_frame39.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0019",
+"video": "vlnqa/left/1716_frame42.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0045",
+"video": "vlnqa/left/6843_frame48.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0046",
+"video": "vlnqa/left/1382_frame58.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0047",
+"video": "vlnqa/left/101_frame51.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0048",
+"video": "vlnqa/left/6939_frame50.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0052",
+"video": "vlnqa/right/1888_frame54.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0080",
+"video": "vlnqa/right/3669_frame35.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0082",
+"video": "vlnqa/right/6595_frame41.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0094",
+"video": "vlnqa/right/4865_frame35.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0103",
+"video": "vlnqa/forward/4152_frame34.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0105",
+"video": "vlnqa/forward/4474_frame36.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0112",
+"video": "vlnqa/forward/5956_frame32.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0113",
+"video": "vlnqa/forward/6911_frame38.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0127",
+"video": "vlnqa/forward/4941_frame52.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0128",
+"video": "vlnqa/forward/3525_frame52.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0150",
+"video": "vlnqa/stop/2282_frame52.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0162",
+"video": "vlnqa/stop/4027_frame31.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0171",
+"video": "vlnqa/stop/2782_frame56.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0175",
+"video": "vlnqa/stop/2690_frame26.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0183",
+"video": "vlnqa/stop/3274_frame61.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0184",
+"video": "vlnqa/stop/2834_frame31.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0191",
+"video": "vlnqa/stop/3856_frame53.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "egocentric_navigation-0196",
+"video": "vlnqa/stop/5333_frame59.mp4",
+"group": "egocentric_navigation",
+"task": "egocentric_navigation"
+},
+{
+"qid": "episodic_reasoning-0007",
+"video": "tvqa/video_fps3_hq_segment/friends_s06e15-16_seg02_clip_20_0.0_29.99.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0010",
+"video": "tvqa/video_fps3_hq_segment/friends_s09e01_seg02_clip_21_0.0_35.12.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0019",
+"video": "tvqa/video_fps3_hq_segment/friends_s09e08_seg02_clip_01_0.0_26.57.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0045",
+"video": "tvqa/video_fps3_hq_segment/house_s07e18_seg02_clip_07_10.01_35.5.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0046",
+"video": "tvqa/video_fps3_hq_segment/s04e05_seg02_clip_13_0.0_27.77.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0047",
+"video": "tvqa/video_fps3_hq_segment/s08e05_seg01_clip_01_0.0_26.04.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0048",
+"video": "tvqa/video_fps3_hq_segment/house_s05e21_seg02_clip_10_0.0_28.57.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0052",
+"video": "tvqa/video_fps3_hq_segment/house_s07e06_seg02_clip_17_45.85_77.06.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0080",
+"video": "tvqa/video_fps3_hq_segment/met_s02e02_seg02_clip_12_26.67_62.03.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0082",
+"video": "tvqa/video_fps3_hq_segment/met_s02e15_seg02_clip_00_5.97_44.27.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0094",
+"video": "tvqa/video_fps3_hq_segment/castle_s05e16_seg02_clip_21_20.26_51.31.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0103",
+"video": "tvqa/video_fps3_hq_segment/friends_s08e07_seg02_clip_12_11.43_37.89.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0105",
+"video": "tvqa/video_fps3_hq_segment/friends_s09e16_seg02_clip_22_0.0_33.33.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0112",
+"video": "tvqa/video_fps3_hq_segment/s01e09_seg02_clip_08_0.0_26.41.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0113",
+"video": "tvqa/video_fps3_hq_segment/friends_s10e10_seg02_clip_07_33.87_61.03.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0127",
+"video": "tvqa/video_fps3_hq_segment/castle_s04e16_seg02_clip_23_22.61_59.89.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0128",
+"video": "tvqa/video_fps3_hq_segment/met_s02e02_seg02_clip_05_0.0_25.04.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0150",
+"video": "tvqa/video_fps3_hq_segment/grey_s03e05_seg02_clip_12_36.17_63.42.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0162",
+"video": "tvqa/video_fps3_hq_segment/castle_s05e03_seg02_clip_19_55.79_83.93.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0171",
+"video": "tvqa/video_fps3_hq_segment/friends_s03e17_seg02_clip_01_19.18_59.03.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0175",
+"video": "tvqa/video_fps3_hq_segment/house_s08e20_seg02_clip_05_13.2_44.01.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0183",
+"video": "tvqa/video_fps3_hq_segment/house_s03e02_seg02_clip_08_55.07_81.47.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0184",
+"video": "tvqa/video_fps3_hq_segment/friends_s09e08_seg02_clip_01_0.0_33.94.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0191",
+"video": "tvqa/video_fps3_hq_segment/house_s04e02_seg02_clip_00_20.25_47.85.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "episodic_reasoning-0196",
+"video": "tvqa/video_fps3_hq_segment/castle_s05e20_seg02_clip_07_20.26_46.36.mp4",
+"group": "episodic_reasoning",
+"task": "episodic_reasoning"
+},
+{
+"qid": "fine_grained_action-0007",
+"video": "Moments_in_Time_Raw/videos/validation/asking/getty-house-minority-leader-nancy-pelosi-of-california-responds-to-a-on-video-id526772926_192.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0010",
+"video": "Moments_in_Time_Raw/videos/validation/wetting/getty-sprinkler-video-id453401937_2.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0019",
+"video": "Moments_in_Time_Raw/videos/validation/crying/yt-hMDnEKCQv5s_495.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0045",
+"video": "Moments_in_Time_Raw/videos/validation/boarding/getty-time-lapse-of-a-fast-train-arriving-and-halting-at-railway-station-video-id515204512_15.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0046",
+"video": "Moments_in_Time_Raw/videos/validation/waxing/yt-o2ltzpODghA_13.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0047",
+"video": "Moments_in_Time_Raw/videos/validation/loading/getty-apps-fill-smart-phones-loop-video-id187196035_3.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0048",
+"video": "Moments_in_Time_Raw/videos/validation/instructing/getty-chinese-grandma-teaches-her-granddaughter-new-words-video-id640008786_4.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0052",
+"video": "Moments_in_Time_Raw/videos/validation/sniffing/getty-grey-shorttailed-opossum-face-looking-to-camera-in-burrow-video-id143567341_13.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0080",
+"video": "Moments_in_Time_Raw/videos/validation/skating/yt--MAYaJ5cyOE_70.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0082",
+"video": "Moments_in_Time_Raw/videos/validation/waving/giphy-qqOKAPe4Ud8OI_0.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0094",
+"video": "Moments_in_Time_Raw/videos/validation/floating/getty-beautiful-caucasian-woman-in-bikini-floating-in-tropical-waters-in-video-id139267845_2.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0103",
+"video": "Moments_in_Time_Raw/videos/validation/guarding/getty-member-of-the-dc-police-threatens-to-arrest-a-pedestrian-watching-video-id519066882_55.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0105",
+"video": "Moments_in_Time_Raw/videos/validation/swerving/yt-KGHYT4aHB5g_107.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0112",
+"video": "Moments_in_Time_Raw/videos/validation/playing+music/yt-OIjQlKZJN34_35.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0113",
+"video": "Moments_in_Time_Raw/videos/validation/handwriting/getty-hand-writing-video-id496748186_16.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0127",
+"video": "Moments_in_Time_Raw/videos/validation/paying/getty-sexy-attractive-good-looking-young-blonde-woman-in-black-dress-paying-video-id600203520_1.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0128",
+"video": "Moments_in_Time_Raw/videos/validation/dragging/getty-ant-drags-something-to-the-anthill-video-id106892629_2.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0150",
+"video": "Moments_in_Time_Raw/videos/validation/plunging/getty-four-businessmen-race-on-multicoloured-space-hoppers-on-the-floor-of-video-iddv1423014_4.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0162",
+"video": "Moments_in_Time_Raw/videos/validation/splashing/getty-dense-group-of-flamingoes-splashing-and-preening-in-shallows-of-lake-video-id687154607_39.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0171",
+"video": "Moments_in_Time_Raw/videos/validation/crawling/yt-2yAWjVCT1VQ_11.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0175",
+"video": "Moments_in_Time_Raw/videos/validation/giggling/yt-OXZBS1bj_0U_12.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0183",
+"video": "Moments_in_Time_Raw/videos/validation/grinning/yt-lZsYczEh1rM_667.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0184",
+"video": "Moments_in_Time_Raw/videos/validation/speaking/7-7-2-7-2-3-6-3-8677272363_14.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0191",
+"video": "Moments_in_Time_Raw/videos/validation/peeling/getty-corn-video-id472532799_9.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "fine_grained_action-0196",
+"video": "Moments_in_Time_Raw/videos/validation/rolling/vine-hrjY1jMau0Z_3.mp4",
+"group": "fine_grained_action",
+"task": "fine_grained_action"
+},
+{
+"qid": "moving_attribute-0007",
+"video": "clevrer/video_validation/video_13962.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0010",
+"video": "clevrer/video_validation/video_13030.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0019",
+"video": "clevrer/video_validation/video_13870.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0045",
+"video": "clevrer/video_validation/video_13903.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0046",
+"video": "clevrer/video_validation/video_13226.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0047",
+"video": "clevrer/video_validation/video_11744.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0048",
+"video": "clevrer/video_validation/video_11478.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0052",
+"video": "clevrer/video_validation/video_13223.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0080",
+"video": "clevrer/video_validation/video_12460.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0082",
+"video": "clevrer/video_validation/video_12844.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0094",
+"video": "clevrer/video_validation/video_10385.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0103",
+"video": "clevrer/video_validation/video_11414.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0105",
+"video": "clevrer/video_validation/video_13740.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0112",
+"video": "clevrer/video_validation/video_11825.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0113",
+"video": "clevrer/video_validation/video_10844.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0127",
+"video": "clevrer/video_validation/video_12387.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0128",
+"video": "clevrer/video_validation/video_13834.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0150",
+"video": "clevrer/video_validation/video_14652.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0162",
+"video": "clevrer/video_validation/video_13059.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0171",
+"video": "clevrer/video_validation/video_10500.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0175",
+"video": "clevrer/video_validation/video_10708.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_direction-0150",
+"video": "clevrer/video_validation/video_10708.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_attribute-0183",
+"video": "clevrer/video_validation/video_11371.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0184",
+"video": "clevrer/video_validation/video_10810.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0191",
+"video": "clevrer/video_validation/video_13001.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_attribute-0196",
+"video": "clevrer/video_validation/video_10729.mp4",
+"group": "moving_attribute",
+"task": "moving_attribute"
+},
+{
+"qid": "moving_count-0007",
+"video": "clevrer/video_validation/video_10751.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0010",
+"video": "clevrer/video_validation/video_14510.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0019",
+"video": "clevrer/video_validation/video_12406.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0045",
+"video": "clevrer/video_validation/video_14744.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0046",
+"video": "clevrer/video_validation/video_12056.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0047",
+"video": "clevrer/video_validation/video_11092.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0048",
+"video": "clevrer/video_validation/video_11628.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0052",
+"video": "clevrer/video_validation/video_12429.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0080",
+"video": "clevrer/video_validation/video_10661.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0082",
+"video": "clevrer/video_validation/video_10032.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0094",
+"video": "clevrer/video_validation/video_10016.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0103",
+"video": "clevrer/video_validation/video_14376.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0105",
+"video": "clevrer/video_validation/video_14412.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0112",
+"video": "clevrer/video_validation/video_13765.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0113",
+"video": "clevrer/video_validation/video_10245.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0127",
+"video": "clevrer/video_validation/video_13677.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0128",
+"video": "clevrer/video_validation/video_11614.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0150",
+"video": "clevrer/video_validation/video_13795.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0162",
+"video": "clevrer/video_validation/video_13150.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0171",
+"video": "clevrer/video_validation/video_10644.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0175",
+"video": "clevrer/video_validation/video_13904.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0183",
+"video": "clevrer/video_validation/video_13774.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0184",
+"video": "clevrer/video_validation/video_13742.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0191",
+"video": "clevrer/video_validation/video_12184.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_count-0196",
+"video": "clevrer/video_validation/video_14773.mp4",
+"group": "moving_count",
+"task": "moving_count"
+},
+{
+"qid": "moving_direction-0007",
+"video": "clevrer/video_validation/video_11140.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0010",
+"video": "clevrer/video_validation/video_11006.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0019",
+"video": "clevrer/video_validation/video_11650.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0045",
+"video": "clevrer/video_validation/video_13714.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0046",
+"video": "clevrer/video_validation/video_11171.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0047",
+"video": "clevrer/video_validation/video_11871.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0048",
+"video": "clevrer/video_validation/video_13519.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0052",
+"video": "clevrer/video_validation/video_12303.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0080",
+"video": "clevrer/video_validation/video_12369.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0082",
+"video": "clevrer/video_validation/video_14767.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0094",
+"video": "clevrer/video_validation/video_14922.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0103",
+"video": "clevrer/video_validation/video_12729.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0105",
+"video": "clevrer/video_validation/video_12005.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0112",
+"video": "clevrer/video_validation/video_13146.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0113",
+"video": "clevrer/video_validation/video_10268.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0127",
+"video": "clevrer/video_validation/video_10124.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0128",
+"video": "clevrer/video_validation/video_10275.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0162",
+"video": "clevrer/video_validation/video_13149.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0171",
+"video": "clevrer/video_validation/video_14425.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0175",
+"video": "clevrer/video_validation/video_14346.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0183",
+"video": "clevrer/video_validation/video_11170.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0184",
+"video": "clevrer/video_validation/video_10314.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0191",
+"video": "clevrer/video_validation/video_11817.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "moving_direction-0196",
+"video": "clevrer/video_validation/video_14354.mp4",
+"group": "moving_direction",
+"task": "moving_direction"
+},
+{
+"qid": "object_existence-0007",
+"video": "clevrer/video_validation/video_12504.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0010",
+"video": "clevrer/video_validation/video_10344.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0019",
+"video": "clevrer/video_validation/video_14101.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0045",
+"video": "clevrer/video_validation/video_14655.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0046",
+"video": "clevrer/video_validation/video_14691.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0047",
+"video": "clevrer/video_validation/video_12077.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0048",
+"video": "clevrer/video_validation/video_10290.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0052",
+"video": "clevrer/video_validation/video_12347.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0080",
+"video": "clevrer/video_validation/video_11117.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0082",
+"video": "clevrer/video_validation/video_10452.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0094",
+"video": "clevrer/video_validation/video_11261.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0103",
+"video": "clevrer/video_validation/video_13023.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0105",
+"video": "clevrer/video_validation/video_11284.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0112",
+"video": "clevrer/video_validation/video_12744.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0113",
+"video": "clevrer/video_validation/video_11933.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0127",
+"video": "clevrer/video_validation/video_12040.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0128",
+"video": "clevrer/video_validation/video_12645.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0150",
+"video": "clevrer/video_validation/video_11145.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0162",
+"video": "clevrer/video_validation/video_14700.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0171",
+"video": "clevrer/video_validation/video_10690.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0175",
+"video": "clevrer/video_validation/video_10754.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0183",
+"video": "clevrer/video_validation/video_12289.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0184",
+"video": "clevrer/video_validation/video_11636.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0191",
+"video": "clevrer/video_validation/video_13605.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_existence-0196",
+"video": "clevrer/video_validation/video_12262.mp4",
+"group": "object_existence",
+"task": "object_existence"
+},
+{
+"qid": "object_interaction-0007",
+"video": "star/Charades_segment/HCM5Y_0.0_15.4.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0010",
+"video": "star/Charades_segment/K1D2G_1.0999999999999996_18.1.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0019",
+"video": "star/Charades_segment/LY10X_0.547863366062785_33.05213663393722.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0045",
+"video": "star/Charades_segment/9335E_18.1_33.3.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0046",
+"video": "star/Charades_segment/34J80_4.619931358840727_30.380068641159273.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0047",
+"video": "star/Charades_segment/3EIRZ_0.0_14.600000000000001.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0048",
+"video": "star/Charades_segment/R9NRA_6.208333333333332_30.791666666666668.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0052",
+"video": "star/Charades_segment/N5PLR_0.0_16.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0080",
+"video": "star/Charades_segment/S444Y_6.6_21.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0082",
+"video": "star/Charades_segment/M8OYC_13.100000000000001_29.1.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0094",
+"video": "star/Charades_segment/BCONW_0.0_14.8.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0103",
+"video": "star/Charades_segment/F0ZPW_17.4_32.3.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0105",
+"video": "star/Charades_segment/A33VQ_3.466666666666665_30.933333333333334.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0112",
+"video": "star/Charades_segment/428VQ_0.0_15.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0113",
+"video": "star/Charades_segment/CH8XJ_12.2_27.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0127",
+"video": "star/Charades_segment/R971Z_5.1_20.8.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0128",
+"video": "star/Charades_segment/S572F_9.0_24.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0150",
+"video": "star/Charades_segment/7UV4O_4.7_20.7.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0162",
+"video": "star/Charades_segment/GLGQJ_20.1_35.3.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0171",
+"video": "star/Charades_segment/WP5RH_5.8_22.1.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0175",
+"video": "star/Charades_segment/ZZ2SF_10.2_26.5.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0183",
+"video": "star/Charades_segment/6JGXL_8.0_22.9.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0184",
+"video": "star/Charades_segment/23YS1_31.9_48.3.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0191",
+"video": "star/Charades_segment/CSYES_6.6_21.0.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_interaction-0196",
+"video": "star/Charades_segment/JJLTF_5.208333333333336_33.791666666666664.mp4",
+"group": "object_interaction",
+"task": "object_interaction"
+},
+{
+"qid": "object_shuffle-0007",
+"video": "perception/videos/video_6417.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0010",
+"video": "perception/videos/video_7998.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0019",
+"video": "perception/videos/video_7880.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0045",
+"video": "perception/videos/video_9251.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0046",
+"video": "perception/videos/video_4046.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0047",
+"video": "perception/videos/video_5516.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0048",
+"video": "perception/videos/video_4512.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0052",
+"video": "perception/videos/video_1364.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0080",
+"video": "perception/videos/video_10120.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0082",
+"video": "perception/videos/video_2151.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0094",
+"video": "perception/videos/video_1920.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0103",
+"video": "perception/videos/video_4126.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0105",
+"video": "perception/videos/video_10896.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0112",
+"video": "perception/videos/video_6423.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0113",
+"video": "perception/videos/video_2699.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0127",
+"video": "perception/videos/video_127.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0128",
+"video": "perception/videos/video_8777.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0150",
+"video": "perception/videos/video_9718.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0162",
+"video": "perception/videos/video_9234.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0171",
+"video": "perception/videos/video_8447.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0175",
+"video": "perception/videos/video_5506.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0183",
+"video": "perception/videos/video_2170.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0184",
+"video": "perception/videos/video_7017.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0191",
+"video": "perception/videos/video_9981.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "object_shuffle-0196",
+"video": "perception/videos/video_7838.mp4",
+"group": "object_shuffle",
+"task": "object_shuffle"
+},
+{
+"qid": "scene_transition-0007",
+"video": "scene_qa/video/Top135_04375.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0010",
+"video": "scene_qa/video/Top047_00935.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0019",
+"video": "scene_qa/video/Top042_05585.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0045",
+"video": "scene_qa/video/Top027_01600.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0046",
+"video": "scene_qa/video/Top027_00760.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0047",
+"video": "scene_qa/video/Top024_04925.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0048",
+"video": "scene_qa/video/Top064_05600.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0052",
+"video": "scene_qa/video/Top103_07065.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0080",
+"video": "scene_qa/video/Top024_03665.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0082",
+"video": "scene_qa/video/Top040_02215.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0094",
+"video": "scene_qa/video/Top016_03120.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0103",
+"video": "scene_qa/video/Top066_01200.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0105",
+"video": "scene_qa/video/Top136_05555.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0112",
+"video": "scene_qa/video/Top097_01280.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0113",
+"video": "scene_qa/video/Top019_03440.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0127",
+"video": "scene_qa/video/Top046_00175.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0128",
+"video": "scene_qa/video/Top135_01765.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0150",
+"video": "scene_qa/video/Top043_02660.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0162",
+"video": "scene_qa/video/Top075_00720.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0171",
+"video": "scene_qa/video/Top009_00375.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0175",
+"video": "scene_qa/video/Top023_05940.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0183",
+"video": "scene_qa/video/Top010_07590.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0184",
+"video": "scene_qa/video/Top119_01365.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0191",
+"video": "scene_qa/video/Top077_02225.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "scene_transition-0196",
+"video": "scene_qa/video/Top081_02555.mp4",
+"group": "scene_transition",
+"task": "scene_transition"
+},
+{
+"qid": "state_change-0007",
+"video": "perception/videos/video_5690.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0010",
+"video": "perception/videos/video_1490.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0019",
+"video": "perception/videos/video_10508.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0045",
+"video": "perception/videos/video_7286.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0046",
+"video": "perception/videos/video_4936.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0047",
+"video": "perception/videos/video_7299.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0048",
+"video": "perception/videos/video_7791.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0052",
+"video": "perception/videos/video_7592.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0080",
+"video": "perception/videos/video_10294.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0082",
+"video": "perception/videos/video_1373.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0094",
+"video": "perception/videos/video_8144.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0103",
+"video": "perception/videos/video_2013.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0105",
+"video": "perception/videos/video_941.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0112",
+"video": "perception/videos/video_2685.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0113",
+"video": "perception/videos/video_7515.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0127",
+"video": "perception/videos/video_6303.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0128",
+"video": "perception/videos/video_10623.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0150",
+"video": "perception/videos/video_10876.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0162",
+"video": "perception/videos/video_5115.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0171",
+"video": "perception/videos/video_209.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0175",
+"video": "perception/videos/video_5966.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0183",
+"video": "perception/videos/video_6182.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0184",
+"video": "perception/videos/video_4313.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0191",
+"video": "perception/videos/video_7142.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "state_change-0196",
+"video": "perception/videos/video_656.mp4",
+"group": "state_change",
+"task": "state_change"
+},
+{
+"qid": "unexpected_action-0007",
+"video": "FunQA_test/test/test_humor/H_H_165_4617_4709.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0010",
+"video": "FunQA_test/test/test_humor/H_H_132_1393_1497.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0019",
+"video": "FunQA_test/test/test_humor/H_A_112_0436_0691.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0045",
+"video": "FunQA_test/test/test_humor/H_T_580_0000_0770.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0046",
+"video": "FunQA_test/test/test_humor/H_T_630_0000_0160.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0047",
+"video": "FunQA_test/test/test_humor/H_A_31_0442_0688.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0048",
+"video": "FunQA_test/test/test_humor/H_T_779_0000_0149.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0052",
+"video": "FunQA_test/test/test_humor/H_A_15_0000_0224.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0080",
+"video": "FunQA_test/test/test_creative/C_KT_97_2145_2248.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0082",
+"video": "FunQA_test/test/test_creative/C_KT_9_0255_0333.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0094",
+"video": "FunQA_test/test/test_creative/C_KT_14_4112_4143.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0103",
+"video": "FunQA_test/test/test_creative/C_KT_21_8053_8120.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0105",
+"video": "FunQA_test/test/test_creative/C_KT_8_0418_0453.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0112",
+"video": "FunQA_test/test/test_creative/C_KT_21_6234_6350.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0113",
+"video": "FunQA_test/test/test_creative/C_KT_26_6741_6818.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0127",
+"video": "FunQA_test/test/test_creative/C_KT_97_3233_3410.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0128",
+"video": "FunQA_test/test/test_creative/C_KT_21_8758_8835.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0150",
+"video": "FunQA_test/test/test_magic/M_Z_280_6258_6451.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0162",
+"video": "FunQA_test/test/test_magic/M_Z_35_2209_2521.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0171",
+"video": "FunQA_test/test/test_magic/M_C_165_0842_1315.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0175",
+"video": "FunQA_test/test/test_magic/M_Z_33_7187_7560.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0183",
+"video": "FunQA_test/test/test_magic/M_Z_320_3591_3713.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0184",
+"video": "FunQA_test/test/test_magic/M_Z_51_2001_2660.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0191",
+"video": "FunQA_test/test/test_magic/M_Z_321_10180_10589.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+},
+{
+"qid": "unexpected_action-0196",
+"video": "FunQA_test/test/test_magic/M_Z_23_1345_1620.mp4",
+"group": "unexpected_action",
+"task": "unexpected_action"
+}
+]
+}
