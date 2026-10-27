@@ -3,15 +3,16 @@ message: "If you use this code or data, please cite it as below."
 title: "Answer flips in training-free video token compression: code and data"
 type: software
 version: 1.0.0
-date-released: 2026-10-21
+date-released: 2026-10-27
 license: MIT
+repository-code: "https://github.com/ShanaxWorld/flip-study"
 authors:
   - family-names: Hossain
     given-names: "S. M. Shah Nawaz"
-    affiliation: North South University
+    affiliation: "Department of Electrical and Computer Engineering, North South University"
   - family-names: Nimi
     given-names: Sumaiya Tabassum
-    affiliation: North South University
+    affiliation: "Department of Electrical and Computer Engineering, North South University"
 keywords:
   - video large language models
   - visual token compression
